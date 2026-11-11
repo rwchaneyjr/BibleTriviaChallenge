@@ -16,9 +16,10 @@ public sealed class TriviaHintManager : MonoBehaviour
     public void UseHint()
     {
         if (gameController == null || !gameController.UseHint()) return;
+        if (audioManager == null) audioManager = FindObjectOfType<TriviaAudioManager>();
+        if (audioManager != null) audioManager.PlayClick();
         if (hintText != null) hintText.text = "Hint used: one incorrect answer removed.";
         if (hintButton != null) hintButton.interactable = false;
-        if (audioManager == null) audioManager = FindObjectOfType<TriviaAudioManager>();
         if (audioManager != null) audioManager.PlayHint();
     }
 }

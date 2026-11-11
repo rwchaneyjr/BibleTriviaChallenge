@@ -789,10 +789,14 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   audioSource: {fileID: 0}
+  musicSource: {fileID: 0}
   answerClip: {fileID: 8300000, guid: 6352c2fa24616b74c891219f44ea01e3, type: 3}
   correctClip: {fileID: 8300000, guid: c4d0e867fcebf024a97e4630249e4d8f, type: 3}
   incorrectClip: {fileID: 8300000, guid: 413222268932511439a18837c3747bfc, type: 3}
   hintClip: {fileID: 8300000, guid: ed73f7fc92d0eb0418d78efcc35219a6, type: 3}
+  clickClip: {fileID: 8300000, guid: 6352c2fa24616b74c891219f44ea01e3, type: 3}
+  levelCompleteClip: {fileID: 8300000, guid: cdae3ccbdd4ca1c49a23bf3aec46de20, type: 3}
+  musicClip: {fileID: 8300000, guid: 6a4a0e70f7e90af43bf84cb07df189d7, type: 3}
   muteButton: {fileID: 0}
   muteLabel: {fileID: 0}
 --- !u!4 &196341993

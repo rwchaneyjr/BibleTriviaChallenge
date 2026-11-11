@@ -149,6 +149,7 @@ public sealed class TriviaGameController : MonoBehaviour
     {
         if (answered) return;
         answered = true;
+        if (audioManager != null) audioManager.PlayClick();
         var correct = index == currentQuestion.correctAnswerIndex;
         TriviaProgress.RecordAnswer(correct);
         var achievementMessage = TriviaAchievements.RecordAnswer(correct);
@@ -165,7 +166,9 @@ public sealed class TriviaGameController : MonoBehaviour
     public void NextQuestion()
     {
         if (roundQuestions.Count == 0) return;
+        if (questionIndex == roundQuestions.Count - 1 && audioManager != null) audioManager.PlayLevelComplete();
         questionIndex = (questionIndex + 1) % roundQuestions.Count;
+        if (audioManager != null) audioManager.PlayClick();
         ShowQuestion(roundQuestions[questionIndex]);
     }
 }

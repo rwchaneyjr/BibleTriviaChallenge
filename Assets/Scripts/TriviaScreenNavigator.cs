@@ -9,6 +9,7 @@ public sealed class TriviaScreenNavigator : MonoBehaviour
     [SerializeField] private Button playButton;
     [SerializeField] private Button levelsButton;
     [SerializeField] private Button backButton;
+    private TriviaAudioManager audioManager;
 
     private void Start()
     {
@@ -18,11 +19,17 @@ public sealed class TriviaScreenNavigator : MonoBehaviour
         playButton = FindButtonIn("MainMenuPanel", "PlayButton") ?? playButton;
         levelsButton = FindButtonIn("MainMenuPanel", "LevelsButton") ?? levelsButton;
         backButton = FindButtonIn("LevelPanel", "BackButton") ?? backButton;
-        if (playButton != null) { playButton.onClick.RemoveListener(ShowLevels); playButton.onClick.AddListener(ShowLevels); }
-        if (levelsButton != null) { levelsButton.onClick.RemoveListener(ShowLevels); levelsButton.onClick.AddListener(ShowLevels); }
-        if (backButton != null) { backButton.onClick.RemoveListener(ShowMenu); backButton.onClick.AddListener(ShowMenu); }
+        audioManager = FindObjectOfType<TriviaAudioManager>();
+        if (playButton != null) { playButton.onClick.RemoveListener(ShowLevels); playButton.onClick.AddListener(ShowLevels); playButton.onClick.AddListener(PlayClick); }
+        if (levelsButton != null) { levelsButton.onClick.RemoveListener(ShowLevels); levelsButton.onClick.AddListener(ShowLevels); levelsButton.onClick.AddListener(PlayClick); }
+        if (backButton != null) { backButton.onClick.RemoveListener(ShowMenu); backButton.onClick.AddListener(ShowMenu); backButton.onClick.AddListener(PlayClick); }
         Debug.Log("Trivia navigation ready: Play=" + (playButton != null) + ", Levels=" + (levelsButton != null) + ", Back=" + (backButton != null));
         ShowMenu();
+    }
+
+    private void PlayClick()
+    {
+        if (audioManager != null) audioManager.PlayClick();
     }
 
     private static Button FindButtonIn(string panelName, string buttonName)
