@@ -183,12 +183,20 @@ public static class TriviaSceneObjectBuilder
         if (existing != null)
         {
             var existingLabel = existing.transform.Find("Label")?.GetComponent<Text>();
-            if (existingLabel != null) existingLabel.fontSize = 36;
+            if (existingLabel != null)
+            {
+                existingLabel.fontSize = 36;
+                existingLabel.resizeTextForBestFit = true;
+                existingLabel.resizeTextMinSize = 14;
+                existingLabel.resizeTextMaxSize = 36;
+                existingLabel.horizontalOverflow = HorizontalWrapMode.Wrap;
+                existingLabel.verticalOverflow = VerticalWrapMode.Truncate;
+            }
             return;
         }
         var go = new GameObject(name, typeof(RectTransform), typeof(Image), typeof(Button)); go.transform.SetParent(parent, false);
         var rect = go.GetComponent<RectTransform>(); rect.anchoredPosition = position; rect.sizeDelta = new Vector2(800, 120);
-        var label = new GameObject("Label", typeof(RectTransform), typeof(Text)); label.transform.SetParent(go.transform, false); var labelRect = label.GetComponent<RectTransform>(); labelRect.anchorMin = Vector2.zero; labelRect.anchorMax = Vector2.one; labelRect.offsetMin = new Vector2(20, 10); labelRect.offsetMax = new Vector2(-20, -10); var t = label.GetComponent<Text>(); t.text = value; t.alignment = TextAnchor.MiddleCenter; t.horizontalOverflow = HorizontalWrapMode.Overflow; t.verticalOverflow = VerticalWrapMode.Truncate; t.fontSize = 36; t.color = Color.black;
+        var label = new GameObject("Label", typeof(RectTransform), typeof(Text)); label.transform.SetParent(go.transform, false); var labelRect = label.GetComponent<RectTransform>(); labelRect.anchorMin = Vector2.zero; labelRect.anchorMax = Vector2.one; labelRect.offsetMin = new Vector2(20, 10); labelRect.offsetMax = new Vector2(-20, -10); var t = label.GetComponent<Text>(); t.text = value; t.alignment = TextAnchor.MiddleCenter; t.horizontalOverflow = HorizontalWrapMode.Wrap; t.verticalOverflow = VerticalWrapMode.Truncate; t.fontSize = 36; t.resizeTextForBestFit = true; t.resizeTextMinSize = 14; t.resizeTextMaxSize = 36; t.color = Color.black;
     }
 
 }
