@@ -28,7 +28,10 @@ public sealed class TriviaGameController : MonoBehaviour
     private int questionIndex;
     private int score;
     private bool answered;
-    private bool hintUsed;
+    private int hintsUsed;
+
+    public bool CanUseHint => !answered && currentQuestion != null && hintsUsed < 3;
+    public int HintsUsed => hintsUsed;
 
     public void BeginLevel(string difficulty)
     {
@@ -118,7 +121,7 @@ public sealed class TriviaGameController : MonoBehaviour
     {
         currentQuestion = question;
         answered = false;
-        hintUsed = false;
+        hintsUsed = 0;
         // Show the verse first; the player must identify its reference from the buttons.
         questionText.text = question.explanation;
         referenceText.text = string.IsNullOrWhiteSpace(question.question)
@@ -144,13 +147,16 @@ public sealed class TriviaGameController : MonoBehaviour
 
     public bool UseHint()
     {
-        if (hintUsed || answered || currentQuestion == null) return false;
-        hintUsed = true;
+        if (!CanUseHint) return false;
         for (var i = answerButtons.Length - 1; i >= 0; i--)
             if (i != currentQuestion.correctAnswerIndex && answerButtons[i] != null)
             {
-                answerButtons[i].interactable = false;
-                return true;
+                if (answerButtons[i].interactable)
+                {
+                    answerButtons[i].interactable = false;
+                    hintsUsed++;
+                    return true;
+                }
             }
         return false;
     }
