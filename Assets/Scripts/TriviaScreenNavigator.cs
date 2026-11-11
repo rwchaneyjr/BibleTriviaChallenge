@@ -44,6 +44,8 @@ public sealed class TriviaScreenNavigator : MonoBehaviour
     private void ResetGame()
     {
         TriviaProgress.ResetAll();
+        var controller = FindObjectOfType<TriviaGameController>();
+        if (controller != null) controller.ResetSession();
         ShowMenu();
     }
 

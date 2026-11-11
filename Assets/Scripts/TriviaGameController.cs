@@ -51,6 +51,21 @@ public sealed class TriviaGameController : MonoBehaviour
         ShowQuestion(roundQuestions[questionIndex]);
     }
 
+    public void ResetSession()
+    {
+        score = 0;
+        questionIndex = 0;
+        currentQuestion = null;
+        answered = false;
+        hintsUsed = 0;
+        roundQuestions.Clear();
+        if (scoreText != null) scoreText.text = "Score: 0";
+        if (progressText != null) progressText.text = string.Empty;
+        if (feedbackText != null) feedbackText.text = string.Empty;
+        if (hintText != null) hintText.text = string.Empty;
+        if (hintButton != null) hintButton.interactable = true;
+    }
+
     public void BeginCategory(string category)
     {
         if (database == null || database.Questions.Count == 0) return;
