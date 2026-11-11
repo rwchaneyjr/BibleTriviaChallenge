@@ -142,6 +142,7 @@ public sealed class TriviaGameController : MonoBehaviour
         for (var i = 0; i < answerButtons.Length; i++)
         {
             var index = i;
+            answerButtons[i].interactable = true;
             answerButtons[i].GetComponentInChildren<Text>().text = question.answers[i];
             answerButtons[i].onClick.RemoveAllListeners();
             answerButtons[i].onClick.AddListener(() => Answer(index));
