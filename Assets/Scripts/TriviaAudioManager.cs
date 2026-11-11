@@ -8,6 +8,7 @@ public sealed class TriviaAudioManager : MonoBehaviour
     [SerializeField] private AudioClip answerClip;
     [SerializeField] private AudioClip correctClip;
     [SerializeField] private AudioClip incorrectClip;
+    [SerializeField] private AudioClip hintClip;
     [SerializeField] private Button muteButton;
     [SerializeField] private Text muteLabel;
 
@@ -29,6 +30,11 @@ public sealed class TriviaAudioManager : MonoBehaviour
         if (correct && correctClip != null) audioSource.PlayOneShot(correctClip);
         else if (!correct && incorrectClip != null) audioSource.PlayOneShot(incorrectClip);
         else if (answerClip != null) audioSource.PlayOneShot(answerClip);
+    }
+
+    public void PlayHint()
+    {
+        if (hintClip != null) audioSource.PlayOneShot(hintClip);
     }
 
     public void ToggleMute()
