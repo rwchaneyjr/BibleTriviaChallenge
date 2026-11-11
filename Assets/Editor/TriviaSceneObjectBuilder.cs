@@ -8,7 +8,7 @@ public static class TriviaSceneObjectBuilder
     [MenuItem("Bible Trivia/Rebuild Scene Game Objects")]
     public static void RebuildObjects()
     {
-        var names = new[] { "TriviaGameCanvas", "TriviaLevelSelector", "TriviaScreenNavigator", "TriviaVisualTheme", "TriviaPortraitLayout", "TriviaAudioManager", "TriviaHintManager", "TriviaDatabaseStatus", "TriviaCategorySelector", "TriviaQuestionDatabase", "TriviaGameController", "TriviaUIScaleController" };
+        var names = new[] { "TriviaGameCanvas", "TriviaLevelSelector", "TriviaScreenNavigator", "TriviaVisualTheme", "TriviaPortraitLayout", "TriviaAudioManager", "TriviaHintManager", "TriviaDatabaseStatus", "TriviaCategorySelector", "TriviaQuestionDatabase", "TriviaGameController", "TriviaUIScaleController", "UIScaleSlider", "UIScaleText" };
         foreach (var name in names)
         {
             var objects = Object.FindObjectsOfType<GameObject>(true);
@@ -41,8 +41,6 @@ public static class TriviaSceneObjectBuilder
         CreateButton(canvas.transform, "LevelsButton", "Levels", new Vector2(0, 330));
         CreateButton(canvas.transform, "BackButton", "Back", new Vector2(-400, 700));
         CreateButton(canvas.transform, "MuteButton", "Sound: On", new Vector2(400, 700));
-        CreateSlider(canvas.transform, "UIScaleSlider", new Vector2(0, -760));
-        CreateText(canvas.transform, "UIScaleText", "UI Size: 100%", new Vector2(0, -650));
 
         CreateText(canvas.transform, "QuestionText", "Question", new Vector2(0, 450));
         CreateText(canvas.transform, "ReferenceText", "Reference", new Vector2(0, 300));
@@ -80,23 +78,18 @@ public static class TriviaSceneObjectBuilder
         if (databaseObject.GetComponent<TriviaQuestionDatabase>() == null) databaseObject.AddComponent<TriviaQuestionDatabase>();
         var controllerObject = FindAny("TriviaGameController") ?? new GameObject("TriviaGameController");
         if (controllerObject.GetComponent<TriviaGameController>() == null) controllerObject.AddComponent<TriviaGameController>();
-        var scaleObject = FindAny("TriviaUIScaleController") ?? new GameObject("TriviaUIScaleController");
-        if (scaleObject.GetComponent<TriviaUIScaleController>() == null) scaleObject.AddComponent<TriviaUIScaleController>();
         Parent("PlayButton", "MainMenuPanel"); Parent("LevelsButton", "MainMenuPanel");
         Parent("LevelStatusText", "LevelPanel"); Parent("BackButton", "LevelPanel");
         for (var i = 1; i <= 10; i++) Parent("LevelButton" + i, "LevelPanel");
         Parent("QuestionText", "GamePanel"); Parent("ReferenceText", "GamePanel"); Parent("ScoreText", "GamePanel"); Parent("ProgressText", "GamePanel");
         Parent("FeedbackText", "GamePanel"); Parent("AchievementText", "GamePanel"); Parent("HintText", "GamePanel"); Parent("HintButton", "GamePanel"); Parent("NextButton", "GamePanel");
         Parent("MuteButton", "GamePanel"); Parent("DatabaseStatusText", "MainMenuPanel");
-        Parent("UIScaleSlider", "MainMenuPanel"); Parent("UIScaleText", "MainMenuPanel");
         Parent("OldTestamentButton", "LevelPanel"); Parent("NewTestamentButton", "LevelPanel");
         for (var i = 1; i <= 4; i++) Parent("AnswerButton" + i, "GamePanel");
         // Apply layout after parenting so positions are local to their actual screen panels.
         SetRect("BackButton", "LevelPanel", new Vector2(0, 700), new Vector2(420, 90));
         SetRect("OldTestamentButton", "LevelPanel", new Vector2(-220, -650), new Vector2(360, 90));
         SetRect("NewTestamentButton", "LevelPanel", new Vector2(220, -650), new Vector2(360, 90));
-        SetRect("UIScaleSlider", "MainMenuPanel", new Vector2(0, -720), new Vector2(520, 55));
-        SetRect("UIScaleText", "MainMenuPanel", new Vector2(0, -625), new Vector2(520, 70));
         for (var i = 1; i <= 10; i++)
             SetRect("LevelButton" + i, "LevelPanel", new Vector2((((i - 1) % 5) - 2) * 180, 180 - ((i - 1) / 5) * 120), new Vector2(160, 80));
         RemoveMisparented("PlayButton", "MainMenuPanel");
@@ -109,7 +102,6 @@ public static class TriviaSceneObjectBuilder
         RemoveMisparented("NewTestamentButton", "LevelPanel");
         foreach (var name in new[] { "QuestionText", "ReferenceText", "ScoreText", "ProgressText", "FeedbackText", "AchievementText", "HintText", "HintButton", "NextButton", "MuteButton" })
             RemoveMisparented(name, "GamePanel");
-        RemoveMisparented("UIScaleSlider", "MainMenuPanel"); RemoveMisparented("UIScaleText", "MainMenuPanel");
         for (var i = 1; i <= 4; i++) RemoveMisparented("AnswerButton" + i, "GamePanel");
         // Keep the edit-time scene readable; the navigator enables the active screen at runtime.
         FindAny("MainMenuPanel")?.SetActive(true);
@@ -199,18 +191,4 @@ public static class TriviaSceneObjectBuilder
         var label = new GameObject("Label", typeof(RectTransform), typeof(Text)); label.transform.SetParent(go.transform, false); var labelRect = label.GetComponent<RectTransform>(); labelRect.anchorMin = Vector2.zero; labelRect.anchorMax = Vector2.one; labelRect.offsetMin = new Vector2(20, 10); labelRect.offsetMax = new Vector2(-20, -10); var t = label.GetComponent<Text>(); t.text = value; t.alignment = TextAnchor.MiddleCenter; t.horizontalOverflow = HorizontalWrapMode.Overflow; t.verticalOverflow = VerticalWrapMode.Truncate; t.fontSize = 36; t.color = Color.black;
     }
 
-    private static void CreateSlider(Transform parent, string name, Vector2 position)
-    {
-        var existing = FindAny(name);
-        if (existing != null) return;
-        var go = new GameObject(name, typeof(RectTransform), typeof(Image), typeof(Slider));
-        go.transform.SetParent(parent, false);
-        var rect = go.GetComponent<RectTransform>(); rect.anchoredPosition = position; rect.sizeDelta = new Vector2(520, 55);
-        var background = go.GetComponent<Image>(); background.color = new Color(0.16f, 0.24f, 0.36f, 1f);
-        var fill = new GameObject("Fill", typeof(RectTransform), typeof(Image)); fill.transform.SetParent(go.transform, false);
-        var fillRect = fill.GetComponent<RectTransform>(); fillRect.anchorMin = Vector2.zero; fillRect.anchorMax = Vector2.one; fillRect.offsetMin = Vector2.zero; fillRect.offsetMax = Vector2.zero; fill.GetComponent<Image>().color = new Color(0.18f, 0.45f, 0.78f, 1f);
-        var handle = new GameObject("Handle", typeof(RectTransform), typeof(Image)); handle.transform.SetParent(go.transform, false);
-        var handleRect = handle.GetComponent<RectTransform>(); handleRect.sizeDelta = new Vector2(45, 70); handle.GetComponent<Image>().color = Color.white;
-        var slider = go.GetComponent<Slider>(); slider.fillRect = fillRect; slider.handleRect = handleRect; slider.direction = Slider.Direction.LeftToRight; slider.minValue = 0.85f; slider.maxValue = 1.10f; slider.value = 1f;
-    }
 }
