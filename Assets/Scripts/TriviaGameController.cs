@@ -158,9 +158,7 @@ public sealed class TriviaGameController : MonoBehaviour
         var achievementMessage = TriviaAchievements.RecordAnswer(correct);
         if (audioManager != null) audioManager.PlayAnswer(correct);
         score = TriviaProgress.Score;
-        feedbackText.text = correct
-            ? "Correct! " + currentQuestion.explanation
-            : "Not quite. " + currentQuestion.explanation;
+        feedbackText.text = correct ? "Correct" : "Not Quite";
         if (achievementText != null) achievementText.text = achievementMessage + "  Stars: " + TriviaAchievements.CurrentStars();
         if (scoreText != null) scoreText.text = "Score: " + score;
         if (nextButton != null) nextButton.gameObject.SetActive(true);
