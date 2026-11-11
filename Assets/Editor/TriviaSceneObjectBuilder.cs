@@ -87,11 +87,14 @@ public static class TriviaSceneObjectBuilder
         Parent("OldTestamentButton", "LevelPanel"); Parent("NewTestamentButton", "LevelPanel");
         for (var i = 1; i <= 4; i++) Parent("AnswerButton" + i, "GamePanel");
         // Apply layout after parenting so positions are local to their actual screen panels.
-        SetRect("BackButton", "LevelPanel", new Vector2(0, 700), new Vector2(420, 90));
-        SetRect("OldTestamentButton", "LevelPanel", new Vector2(-220, -650), new Vector2(360, 90));
-        SetRect("NewTestamentButton", "LevelPanel", new Vector2(220, -650), new Vector2(360, 90));
+        SetRect("PlayButton", "MainMenuPanel", new Vector2(0, 60), new Vector2(520, 90));
+        SetRect("LevelsButton", "MainMenuPanel", new Vector2(0, -44), new Vector2(520, 90));
+        SetRect("BackButton", "LevelPanel", new Vector2(0, 342), new Vector2(420, 90));
+        SetRect("OldTestamentButton", "LevelPanel", new Vector2(-220, -282), new Vector2(360, 90));
+        SetRect("NewTestamentButton", "LevelPanel", new Vector2(220, -282), new Vector2(360, 90));
+        SetRect("LevelStatusText", "LevelPanel", new Vector2(0, -390), new Vector2(700, 60));
         for (var i = 1; i <= 10; i++)
-            SetRect("LevelButton" + i, "LevelPanel", new Vector2((((i - 1) % 2) == 0 ? -135 : 135), 240 - ((i - 1) / 2) * 125), new Vector2(240, 86));
+            SetRect("LevelButton" + i, "LevelPanel", new Vector2((((i - 1) % 2) == 0 ? -135 : 135), 220 - ((i - 1) / 2) * 100), new Vector2(240, 86));
         RemoveMisparented("PlayButton", "MainMenuPanel");
         RemoveMisparented("LevelsButton", "MainMenuPanel");
         RemoveMisparented("DatabaseStatusText", "MainMenuPanel");
