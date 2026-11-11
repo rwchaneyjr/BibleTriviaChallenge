@@ -91,7 +91,7 @@ public static class TriviaSceneObjectBuilder
         SetRect("OldTestamentButton", "LevelPanel", new Vector2(-220, -650), new Vector2(360, 90));
         SetRect("NewTestamentButton", "LevelPanel", new Vector2(220, -650), new Vector2(360, 90));
         for (var i = 1; i <= 10; i++)
-            SetRect("LevelButton" + i, "LevelPanel", new Vector2((((i - 1) % 5) - 2) * 190, 180 - ((i - 1) / 5) * 125), new Vector2(180, 86));
+            SetRect("LevelButton" + i, "LevelPanel", new Vector2((((i - 1) % 2) == 0 ? -135 : 135), 240 - ((i - 1) / 2) * 125), new Vector2(240, 86));
         RemoveMisparented("PlayButton", "MainMenuPanel");
         RemoveMisparented("LevelsButton", "MainMenuPanel");
         RemoveMisparented("DatabaseStatusText", "MainMenuPanel");
