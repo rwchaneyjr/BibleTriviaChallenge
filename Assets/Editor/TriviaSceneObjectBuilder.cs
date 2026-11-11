@@ -169,12 +169,12 @@ public static class TriviaSceneObjectBuilder
         if (existing != null)
         {
             var existingText = existing.GetComponent<Text>();
-            if (existingText != null) existingText.fontSize = name == "QuestionText" ? 34 : 28;
+            if (existingText != null) existingText.fontSize = name == "QuestionText" ? 42 : 32;
             return;
         }
         var go = new GameObject(name, typeof(RectTransform), typeof(Text));
         go.transform.SetParent(parent, false); var rect = go.GetComponent<RectTransform>(); rect.anchoredPosition = position; rect.sizeDelta = new Vector2(900, 120);
-        var text = go.GetComponent<Text>(); text.text = value; text.alignment = TextAnchor.MiddleCenter; text.horizontalOverflow = HorizontalWrapMode.Wrap; text.verticalOverflow = VerticalWrapMode.Truncate; text.fontSize = name == "QuestionText" ? 34 : 28;
+        var text = go.GetComponent<Text>(); text.text = value; text.alignment = TextAnchor.MiddleCenter; text.horizontalOverflow = HorizontalWrapMode.Wrap; text.verticalOverflow = VerticalWrapMode.Truncate; text.fontSize = name == "QuestionText" ? 42 : 32;
     }
 
     private static void CreateButton(Transform parent, string name, string value, Vector2 position)
@@ -183,11 +183,11 @@ public static class TriviaSceneObjectBuilder
         if (existing != null)
         {
             var existingLabel = existing.transform.Find("Label")?.GetComponent<Text>();
-            if (existingLabel != null) existingLabel.fontSize = 30;
+            if (existingLabel != null) existingLabel.fontSize = 36;
             return;
         }
         var go = new GameObject(name, typeof(RectTransform), typeof(Image), typeof(Button)); go.transform.SetParent(parent, false);
         var rect = go.GetComponent<RectTransform>(); rect.anchoredPosition = position; rect.sizeDelta = new Vector2(800, 120);
-        var label = new GameObject("Label", typeof(RectTransform), typeof(Text)); label.transform.SetParent(go.transform, false); var labelRect = label.GetComponent<RectTransform>(); labelRect.anchorMin = Vector2.zero; labelRect.anchorMax = Vector2.one; labelRect.offsetMin = new Vector2(20, 10); labelRect.offsetMax = new Vector2(-20, -10); var t = label.GetComponent<Text>(); t.text = value; t.alignment = TextAnchor.MiddleCenter; t.horizontalOverflow = HorizontalWrapMode.Overflow; t.verticalOverflow = VerticalWrapMode.Truncate; t.fontSize = 30; t.color = Color.black;
+        var label = new GameObject("Label", typeof(RectTransform), typeof(Text)); label.transform.SetParent(go.transform, false); var labelRect = label.GetComponent<RectTransform>(); labelRect.anchorMin = Vector2.zero; labelRect.anchorMax = Vector2.one; labelRect.offsetMin = new Vector2(20, 10); labelRect.offsetMax = new Vector2(-20, -10); var t = label.GetComponent<Text>(); t.text = value; t.alignment = TextAnchor.MiddleCenter; t.horizontalOverflow = HorizontalWrapMode.Overflow; t.verticalOverflow = VerticalWrapMode.Truncate; t.fontSize = 36; t.color = Color.black;
     }
 }
