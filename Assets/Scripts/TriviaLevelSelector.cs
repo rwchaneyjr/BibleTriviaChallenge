@@ -25,7 +25,14 @@ public sealed class TriviaLevelSelector : MonoBehaviour
             var level = i + 1;
             var unlocked = TriviaLevelProgression.IsUnlocked(level);
             levelButtons[i].interactable = unlocked;
-            levelButtons[i].GetComponentInChildren<Text>().text = "Level " + level + (unlocked ? "" : " (Locked)");
+            var label = levelButtons[i].GetComponentInChildren<Text>();
+            label.text = "Level " + level + (unlocked ? "" : " (Locked)");
+            label.fontSize = 28;
+            label.resizeTextForBestFit = true;
+            label.resizeTextMinSize = 14;
+            label.resizeTextMaxSize = 28;
+            label.horizontalOverflow = HorizontalWrapMode.Wrap;
+            label.verticalOverflow = VerticalWrapMode.Truncate;
             var capturedLevel = level;
             levelButtons[i].onClick.AddListener(() => SelectLevel(capturedLevel));
         }
