@@ -40,6 +40,13 @@ public sealed class TriviaPortraitLayout : MonoBehaviour
         foreach (var text in FindObjectsOfType<Text>(true))
         {
             if (text.transform.IsChildOf(transform)) continue;
+            if (text.name == "QuestionText")
+            {
+                text.fontSize = 34;
+                text.resizeTextForBestFit = true;
+                text.resizeTextMinSize = 24;
+                text.resizeTextMaxSize = 34;
+            }
             if (text.GetComponentInParent<Button>() != null)
             {
                 var labelRect = text.rectTransform;
@@ -47,10 +54,10 @@ public sealed class TriviaPortraitLayout : MonoBehaviour
                 labelRect.anchorMax = Vector2.one;
                 labelRect.offsetMin = new Vector2(20, 10);
                 labelRect.offsetMax = new Vector2(-20, -10);
-                text.fontSize = 24;
+                text.fontSize = 30;
                 text.resizeTextForBestFit = true;
-                text.resizeTextMinSize = 14;
-                text.resizeTextMaxSize = 24;
+                text.resizeTextMinSize = 18;
+                text.resizeTextMaxSize = 30;
                 text.horizontalOverflow = HorizontalWrapMode.Overflow;
                 text.verticalOverflow = VerticalWrapMode.Truncate;
             }
