@@ -27,6 +27,13 @@ public static class TriviaAchievements
         return accuracy >= .9f ? 3 : accuracy >= .7f ? 2 : 1;
     }
 
+    public static int AccuracyPercent()
+    {
+        var answered = PlayerPrefs.GetInt(AnsweredKey, 0);
+        if (answered == 0) return 0;
+        return Mathf.RoundToInt(PlayerPrefs.GetInt(CorrectKey, 0) * 100f / answered);
+    }
+
     public static void MarkPerfectRound()
     {
         PlayerPrefs.SetInt(PerfectRoundKey, 1);

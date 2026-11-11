@@ -63,7 +63,7 @@ public sealed class TriviaGameController : MonoBehaviour
         if (progressText != null) progressText.text = string.Empty;
         if (feedbackText != null) feedbackText.text = string.Empty;
         if (hintText != null) hintText.text = string.Empty;
-        if (achievementText != null) achievementText.text = "Stars: 0";
+        if (achievementText != null) achievementText.text = "Accuracy: 0%";
         if (hintButton != null) hintButton.interactable = true;
     }
 
@@ -192,7 +192,7 @@ public sealed class TriviaGameController : MonoBehaviour
         if (audioManager != null) audioManager.PlayAnswer(correct);
         score = TriviaProgress.Score;
         feedbackText.text = correct ? "Correct" : "Not Quite";
-        if (achievementText != null) achievementText.text = achievementMessage + "  Stars: " + TriviaAchievements.CurrentStars();
+        if (achievementText != null) achievementText.text = achievementMessage + "  Accuracy: " + TriviaAchievements.AccuracyPercent() + "%";
         if (scoreText != null) scoreText.text = "Score: " + score;
         if (nextButton != null) nextButton.gameObject.SetActive(true);
         if (hintButton != null) hintButton.interactable = false;

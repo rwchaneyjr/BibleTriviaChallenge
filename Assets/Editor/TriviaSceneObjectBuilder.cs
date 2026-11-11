@@ -88,7 +88,7 @@ public static class TriviaSceneObjectBuilder
         CreateText(canvas.transform, "FeedbackText", "Feedback", new Vector2(0, -500));
         CreateText(canvas.transform, "ScoreText", "Score: 0", new Vector2(-350, 700));
         CreateText(canvas.transform, "ProgressText", "Question 1", new Vector2(350, 700));
-        CreateText(canvas.transform, "AchievementText", "Stars: 0", new Vector2(0, -600));
+        CreateText(canvas.transform, "AchievementText", "Accuracy: 0%", new Vector2(0, -600));
         CreateText(canvas.transform, "HintText", "", new Vector2(0, -670));
         CreateButton(canvas.transform, "HintButton", "Use Hint", new Vector2(0, -760));
         CreateButton(canvas.transform, "OldTestamentButton", "Old Testament", new Vector2(-220, -900));
