@@ -117,8 +117,11 @@ public sealed class TriviaGameController : MonoBehaviour
         currentQuestion = question;
         answered = false;
         hintUsed = false;
-        questionText.text = question.question;
-        referenceText.text = question.reference;
+        // Show the verse first; the player must identify its reference from the buttons.
+        questionText.text = question.explanation;
+        referenceText.text = string.IsNullOrWhiteSpace(question.question)
+            ? "Choose the Bible reference:"
+            : question.question;
         feedbackText.text = string.Empty;
         if (scoreText != null) scoreText.text = "Score: " + score;
         if (progressText != null) progressText.text = "Question " + (questionIndex + 1) + " of " + roundQuestions.Count;
