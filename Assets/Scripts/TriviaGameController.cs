@@ -15,6 +15,7 @@ public sealed class TriviaGameController : MonoBehaviour
     [SerializeField] private Button[] answerButtons;
     [SerializeField] private Button nextButton;
     [SerializeField] private Button hintButton;
+    [SerializeField] private Text hintText;
     [SerializeField] private TriviaAudioManager audioManager;
     [SerializeField] private bool dailyChallenge;
     [SerializeField] private Text achievementText;
@@ -76,6 +77,7 @@ public sealed class TriviaGameController : MonoBehaviour
         progressText = TriviaSceneLookup.FindIn("GamePanel", "ProgressText")?.GetComponent<Text>() ?? progressText;
         nextButton = TriviaSceneLookup.FindIn("GamePanel", "NextButton")?.GetComponent<Button>() ?? nextButton;
         hintButton = TriviaSceneLookup.FindIn("GamePanel", "HintButton")?.GetComponent<Button>() ?? hintButton;
+        hintText = TriviaSceneLookup.FindIn("GamePanel", "HintText")?.GetComponent<Text>() ?? hintText;
         {
             answerButtons = new Button[4];
             var gamePanel = TriviaSceneLookup.Find("GamePanel");
@@ -136,6 +138,7 @@ public sealed class TriviaGameController : MonoBehaviour
             hintButton.interactable = true;
             hintButton.gameObject.SetActive(true);
         }
+        if (hintText != null) hintText.text = string.Empty;
         for (var i = 0; i < answerButtons.Length; i++)
         {
             var index = i;
@@ -175,6 +178,7 @@ public sealed class TriviaGameController : MonoBehaviour
         if (achievementText != null) achievementText.text = achievementMessage + "  Stars: " + TriviaAchievements.CurrentStars();
         if (scoreText != null) scoreText.text = "Score: " + score;
         if (nextButton != null) nextButton.gameObject.SetActive(true);
+        if (hintButton != null) hintButton.interactable = false;
     }
 
     public void NextQuestion()
