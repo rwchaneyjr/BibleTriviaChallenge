@@ -1,0 +1,4004 @@
+{
+  "verses": [
+    {
+      "id": 1,
+      "reference": "Hebrews 11:1",
+      "translation": "WEB",
+      "text": "Now faith is assurance of things hoped for, proof of things not seen.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 2,
+      "reference": "Hebrews 11:6",
+      "translation": "WEB",
+      "text": "Without faith it is impossible to be well pleasing to him, for he who comes to God must believe that he exists, and that he is a rewarder of those who seek him.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 3,
+      "reference": "Romans 10:17",
+      "translation": "WEB",
+      "text": "So faith comes by hearing, and hearing by the word of God.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 4,
+      "reference": "2 Corinthians 5:7",
+      "translation": "WEB",
+      "text": "for we walk by faith, not by sight.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 5,
+      "reference": "Mark 11:22",
+      "translation": "WEB",
+      "text": "Jesus answered them, “Have faith in God.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 6,
+      "reference": "Matthew 17:20",
+      "translation": "WEB",
+      "text": "He said to them, “Because of your unbelief. For most certainly I tell you, if you have faith as a grain of mustard seed, you will tell this mountain, ‘Move from here to there,’ and it will move; and nothing will be impossible for you.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 7,
+      "reference": "James 1:6",
+      "translation": "WEB",
+      "text": "But let him ask in faith, without any doubting, for he who doubts is like a wave of the sea, driven by the wind and tossed.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 8,
+      "reference": "Galatians 2:20",
+      "translation": "WEB",
+      "text": "I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. That life which I now live in the flesh, I live by faith in the Son of God, who loved me, and gave himself up for me.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 9,
+      "reference": "Ephesians 2:8",
+      "translation": "WEB",
+      "text": "for by grace you have been saved through faith, and that not of yourselves; it is the gift of God,",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 10,
+      "reference": "Romans 1:17",
+      "translation": "WEB",
+      "text": "For in it is revealed God’s righteousness from faith to faith. As it is written, “But the righteous shall live by faith.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 11,
+      "reference": "1 John 5:4",
+      "translation": "WEB",
+      "text": "For whatever is born of God overcomes the world. This is the victory that has overcome the world: your faith.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 12,
+      "reference": "John 20:29",
+      "translation": "WEB",
+      "text": "Jesus said to him, “Because you have seen me, you have believed. Blessed are those who have not seen, and have believed.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 13,
+      "reference": "Luke 17:5",
+      "translation": "WEB",
+      "text": "The apostles said to the Lord, “Increase our faith.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 14,
+      "reference": "Mark 9:23",
+      "translation": "WEB",
+      "text": "Jesus said to him, “If you can believe, all things are possible to him who believes.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 15,
+      "reference": "Mark 9:24",
+      "translation": "WEB",
+      "text": "Immediately the father of the child cried out with tears, “I believe. Help my unbelief!”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 16,
+      "reference": "Romans 4:20",
+      "translation": "WEB",
+      "text": "Yet, looking to the promise of God, he didn’t waver through unbelief, but grew strong through faith, giving glory to God,",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 17,
+      "reference": "Romans 4:21",
+      "translation": "WEB",
+      "text": "and being fully assured that what he had promised, he was also able to perform.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 18,
+      "reference": "Hebrews 10:23",
+      "translation": "WEB",
+      "text": "let’s hold fast the confession of our hope without wavering; for he who promised is faithful.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 19,
+      "reference": "Hebrews 12:2",
+      "translation": "WEB",
+      "text": "looking to Jesus, the author and perfecter of faith, who for the joy that was set before him endured the cross, despising its shame, and has sat down at the right hand of the throne of God.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 20,
+      "reference": "1 Peter 1:8",
+      "translation": "WEB",
+      "text": "whom, not having known, you love. In him, though now you don’t see him, yet believing, you rejoice greatly with joy that is unspeakable and full of glory,",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 21,
+      "reference": "1 Peter 1:9",
+      "translation": "WEB",
+      "text": "receiving the result of your faith, the salvation of your souls.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 22,
+      "reference": "James 2:17",
+      "translation": "WEB",
+      "text": "Even so faith, if it has no works, is dead in itself.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 23,
+      "reference": "James 2:26",
+      "translation": "WEB",
+      "text": "For as the body apart from the spirit is dead, even so faith apart from works is dead.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 24,
+      "reference": "Acts 16:31",
+      "translation": "WEB",
+      "text": "They said, “Believe in the Lord Jesus Christ, and you will be saved, you and your household.”",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 25,
+      "reference": "John 6:35",
+      "translation": "WEB",
+      "text": "Jesus said to them, “I am the bread of life. Whoever comes to me will not be hungry, and whoever believes in me will never be thirsty.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 26,
+      "reference": "John 11:25",
+      "translation": "WEB",
+      "text": "Jesus said to her, “I am the resurrection and the life. He who believes in me will still live, even if he dies.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 27,
+      "reference": "John 14:1",
+      "translation": "WEB",
+      "text": "“Don’t let your heart be troubled. Believe in God. Believe also in me.",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 28,
+      "reference": "Psalm 37:5",
+      "translation": "WEB",
+      "text": "Commit your way to Yahweh. Trust also in him, and he will do this:",
+      "category": "Faith",
+      "difficulty": 1
+    },
+    {
+      "id": 29,
+      "reference": "1 Corinthians 13:4",
+      "translation": "WEB",
+      "text": "Love is patient and is kind. Love doesn’t envy. Love doesn’t brag, is not proud,",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 30,
+      "reference": "1 Corinthians 13:5",
+      "translation": "WEB",
+      "text": "doesn’t behave itself inappropriately, doesn’t seek its own way, is not provoked, takes no account of evil;",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 31,
+      "reference": "1 Corinthians 13:6",
+      "translation": "WEB",
+      "text": "doesn’t rejoice in unrighteousness, but rejoices with the truth;",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 32,
+      "reference": "1 Corinthians 13:7",
+      "translation": "WEB",
+      "text": "bears all things, believes all things, hopes all things, and endures all things.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 33,
+      "reference": "1 Corinthians 13:8",
+      "translation": "WEB",
+      "text": "Love never fails. But where there are prophecies, they will be done away with. Where there are various languages, they will cease. Where there is knowledge, it will be done away with.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 34,
+      "reference": "1 Corinthians 13:13",
+      "translation": "WEB",
+      "text": "But now faith, hope, and love remain—these three. The greatest of these is love.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 35,
+      "reference": "John 13:34",
+      "translation": "WEB",
+      "text": "A new commandment I give to you, that you love one another. Just as I have loved you, you also love one another.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 36,
+      "reference": "John 13:35",
+      "translation": "WEB",
+      "text": "By this everyone will know that you are my disciples, if you have love for one another.”",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 37,
+      "reference": "John 15:12",
+      "translation": "WEB",
+      "text": "“This is my commandment, that you love one another, even as I have loved you.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 38,
+      "reference": "John 15:13",
+      "translation": "WEB",
+      "text": "Greater love has no one than this, that someone lay down his life for his friends.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 39,
+      "reference": "1 John 4:7",
+      "translation": "WEB",
+      "text": "Beloved, let’s love one another, for love is of God; and everyone who loves has been born of God, and knows God.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 40,
+      "reference": "1 John 4:8",
+      "translation": "WEB",
+      "text": "He who doesn’t love doesn’t know God, for God is love.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 41,
+      "reference": "1 John 4:9",
+      "translation": "WEB",
+      "text": "By this God’s love was revealed in us, that God has sent his one and only Son into the world that we might live through him.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 42,
+      "reference": "1 John 4:10",
+      "translation": "WEB",
+      "text": "In this is love, not that we loved God, but that he loved us, and sent his Son as the atoning sacrifice for our sins.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 43,
+      "reference": "1 John 4:11",
+      "translation": "WEB",
+      "text": "Beloved, if God loved us in this way, we also ought to love one another.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 44,
+      "reference": "1 John 4:12",
+      "translation": "WEB",
+      "text": "No one has seen God at any time. If we love one another, God remains in us, and his love has been perfected in us.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 45,
+      "reference": "1 John 4:16",
+      "translation": "WEB",
+      "text": "We know and have believed the love which God has for us. God is love, and he who remains in love remains in God, and God remains in him.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 46,
+      "reference": "1 John 4:18",
+      "translation": "WEB",
+      "text": "There is no fear in love; but perfect love casts out fear, because fear has punishment. He who fears is not made perfect in love.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 47,
+      "reference": "1 John 4:19",
+      "translation": "WEB",
+      "text": "We love him, because he first loved us.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 48,
+      "reference": "Romans 12:9",
+      "translation": "WEB",
+      "text": "Let love be without hypocrisy. Abhor that which is evil. Cling to that which is good.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 49,
+      "reference": "Romans 12:10",
+      "translation": "WEB",
+      "text": "In love of the brothers be tenderly affectionate to one another; in honor preferring one another;",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 50,
+      "reference": "Romans 13:10",
+      "translation": "WEB",
+      "text": "Love doesn’t harm a neighbor. Love therefore is the fulfillment of the law.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 51,
+      "reference": "Colossians 3:14",
+      "translation": "WEB",
+      "text": "Above all these things, walk in love, which is the bond of perfection.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 52,
+      "reference": "1 Peter 4:8",
+      "translation": "WEB",
+      "text": "And above all things be earnest in your love among yourselves, for love covers a multitude of sins.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 53,
+      "reference": "Ephesians 4:2",
+      "translation": "WEB",
+      "text": "with all lowliness and humility, with patience, bearing with one another in love,",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 54,
+      "reference": "Ephesians 5:2",
+      "translation": "WEB",
+      "text": "Walk in love, even as Christ also loved us and gave himself up for us, an offering and a sacrifice to God for a sweet-smelling fragrance.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 55,
+      "reference": "Proverbs 10:12",
+      "translation": "WEB",
+      "text": "Hatred stirs up strife, but love covers all wrongs.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 56,
+      "reference": "Song of Solomon 8:7",
+      "translation": "WEB",
+      "text": "Many waters can’t quench love, neither can floods drown it. If a man would give all the wealth of his house for love, he would be utterly scorned.",
+      "category": "Love",
+      "difficulty": 1
+    },
+    {
+      "id": 57,
+      "reference": "Romans 15:13",
+      "translation": "WEB",
+      "text": "Now may the God of hope fill you with all joy and peace in believing, that you may abound in hope, in the power of the Holy Spirit.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 58,
+      "reference": "Romans 5:3",
+      "translation": "WEB",
+      "text": "Not only this, but we also rejoice in our sufferings, knowing that suffering produces perseverance;",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 59,
+      "reference": "Romans 5:4",
+      "translation": "WEB",
+      "text": "and perseverance, proven character; and proven character, hope:",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 60,
+      "reference": "Romans 5:5",
+      "translation": "WEB",
+      "text": "and hope doesn’t disappoint us, because God’s love has been poured into our hearts through the Holy Spirit who was given to us.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 61,
+      "reference": "Romans 8:24",
+      "translation": "WEB",
+      "text": "For we were saved in hope, but hope that is seen is not hope. For who hopes for that which he sees?",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 62,
+      "reference": "Romans 8:25",
+      "translation": "WEB",
+      "text": "But if we hope for that which we don’t see, we wait for it with patience.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 63,
+      "reference": "Romans 12:12",
+      "translation": "WEB",
+      "text": "rejoicing in hope; enduring in troubles; continuing steadfastly in prayer;",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 64,
+      "reference": "Romans 15:4",
+      "translation": "WEB",
+      "text": "For whatever things were written before were written for our learning, that through perseverance and through encouragement of the Scriptures we might have hope.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 65,
+      "reference": "Hebrews 6:19",
+      "translation": "WEB",
+      "text": "This hope we have as an anchor of the soul, a hope both sure and steadfast and entering into that which is within the veil;",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 66,
+      "reference": "Psalm 16:11",
+      "translation": "WEB",
+      "text": "You will show me the path of life. In your presence is fullness of joy. In your right hand there are pleasures forever more.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 67,
+      "reference": "1 Peter 1:3",
+      "translation": "WEB",
+      "text": "Blessed be the God and Father of our Lord Jesus Christ, who according to his great mercy caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead,",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 68,
+      "reference": "1 Peter 1:13",
+      "translation": "WEB",
+      "text": "Therefore prepare your minds for action. Be sober, and set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ—",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 69,
+      "reference": "1 Peter 3:15",
+      "translation": "WEB",
+      "text": "But sanctify the Lord God in your hearts. Always be ready to give an answer to everyone who asks you a reason concerning the hope that is in you, with humility and fear,",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 70,
+      "reference": "Psalm 39:7",
+      "translation": "WEB",
+      "text": "Now, Lord, what do I wait for? My hope is in you.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 71,
+      "reference": "Psalm 42:5",
+      "translation": "WEB",
+      "text": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him for the saving help of his presence.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 72,
+      "reference": "Psalm 42:11",
+      "translation": "WEB",
+      "text": "Why are you in despair, my soul? Why are you disturbed within me? Hope in God! For I shall still praise him, the saving help of my countenance, and my God.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 73,
+      "reference": "Psalm 62:5",
+      "translation": "WEB",
+      "text": "My soul, wait in silence for God alone, for my expectation is from him.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 74,
+      "reference": "Psalm 71:5",
+      "translation": "WEB",
+      "text": "For you are my hope, Lord Yahweh, my confidence from my youth.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 75,
+      "reference": "Psalm 119:114",
+      "translation": "WEB",
+      "text": "You are my hiding place and my shield. I hope in your word.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 76,
+      "reference": "Psalm 130:5",
+      "translation": "WEB",
+      "text": "I wait for Yahweh. My soul waits. I hope in his word.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 77,
+      "reference": "Psalm 130:7",
+      "translation": "WEB",
+      "text": "Israel, hope in Yahweh, for there is loving kindness with Yahweh. Abundant redemption is with him.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 78,
+      "reference": "Lamentations 3:21",
+      "translation": "WEB",
+      "text": "This I recall to my mind; therefore I have hope.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 79,
+      "reference": "Lamentations 3:22",
+      "translation": "WEB",
+      "text": "It is because of Yahweh’s loving kindnesses that we are not consumed, because his compassion doesn’t fail.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 80,
+      "reference": "Lamentations 3:23",
+      "translation": "WEB",
+      "text": "They are new every morning. Great is your faithfulness.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 81,
+      "reference": "Lamentations 3:24",
+      "translation": "WEB",
+      "text": "“Yahweh is my portion,” says my soul. “Therefore I will hope in him.”",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 82,
+      "reference": "Jeremiah 29:11",
+      "translation": "WEB",
+      "text": "For I know the thoughts that I think toward you,” says Yahweh, “thoughts of peace, and not of evil, to give you hope and a future.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 83,
+      "reference": "Titus 2:13",
+      "translation": "WEB",
+      "text": "looking for the blessed hope and appearing of the glory of our great God and Savior, Jesus Christ,",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 84,
+      "reference": "Isaiah 40:31",
+      "translation": "WEB",
+      "text": "but those who wait for Yahweh will renew their strength. They will mount up with wings like eagles. They will run, and not be weary. They will walk, and not faint.",
+      "category": "Hope",
+      "difficulty": 1
+    },
+    {
+      "id": 85,
+      "reference": "Joshua 1:9",
+      "translation": "WEB",
+      "text": "Haven’t I commanded you? Be strong and courageous. Don’t be afraid. Don’t be dismayed, for Yahweh your God is with you wherever you go.”",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 86,
+      "reference": "Joshua 1:7",
+      "translation": "WEB",
+      "text": "Only be strong and very courageous. Be careful to observe to do according to all the law which Moses my servant commanded you. Don’t turn from it to the right hand or to the left, that you may have good success wherever you go.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 87,
+      "reference": "Deuteronomy 31:6",
+      "translation": "WEB",
+      "text": "Be strong and courageous. Don’t be afraid or scared of them; for Yahweh your God himself is who goes with you. He will not fail you nor forsake you.”",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 88,
+      "reference": "Deuteronomy 31:8",
+      "translation": "WEB",
+      "text": "Yahweh himself is who goes before you. He will be with you. He will not fail you nor forsake you. Don’t be afraid. Don’t be discouraged.”",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 89,
+      "reference": "Isaiah 41:10",
+      "translation": "WEB",
+      "text": "Don’t you be afraid, for I am with you. Don’t be dismayed, for I am your God. I will strengthen you. Yes, I will help you. Yes, I will uphold you with the right hand of my righteousness.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 90,
+      "reference": "Isaiah 40:29",
+      "translation": "WEB",
+      "text": "He gives power to the weak. He increases the strength of him who has no might.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 91,
+      "reference": "Isaiah 40:30",
+      "translation": "WEB",
+      "text": "Even the youths faint and get weary, and the young men utterly fall;",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 92,
+      "reference": "Philippians 4:13",
+      "translation": "WEB",
+      "text": "I can do all things through Christ, who strengthens me.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 93,
+      "reference": "Psalm 27:1",
+      "translation": "WEB",
+      "text": "Yahweh is my light and my salvation. Whom shall I fear? Yahweh is the strength of my life. Of whom shall I be afraid?",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 94,
+      "reference": "Psalm 27:14",
+      "translation": "WEB",
+      "text": "Wait for Yahweh. Be strong, and let your heart take courage. Yes, wait for Yahweh.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 95,
+      "reference": "Psalm 28:7",
+      "translation": "WEB",
+      "text": "Yahweh is my strength and my shield. My heart has trusted in him, and I am helped. Therefore my heart greatly rejoices. With my song I will thank him.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 96,
+      "reference": "Psalm 31:24",
+      "translation": "WEB",
+      "text": "Be strong, and let your heart take courage, all you who hope in Yahweh.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 97,
+      "reference": "Psalm 46:1",
+      "translation": "WEB",
+      "text": "God is our refuge and strength, a very present help in trouble.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 98,
+      "reference": "Psalm 73:26",
+      "translation": "WEB",
+      "text": "My flesh and my heart fails, but God is the strength of my heart and my portion forever.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 99,
+      "reference": "Psalm 118:6",
+      "translation": "WEB",
+      "text": "Yahweh is on my side. I will not be afraid. What can man do to me?",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 100,
+      "reference": "Psalm 138:3",
+      "translation": "WEB",
+      "text": "In the day that I called, you answered me. You encouraged me with strength in my soul.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 101,
+      "reference": "2 Timothy 1:7",
+      "translation": "WEB",
+      "text": "For God didn’t give us a spirit of fear, but of power, love, and self-control.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 102,
+      "reference": "1 Corinthians 16:13",
+      "translation": "WEB",
+      "text": "Watch! Stand firm in the faith! Be courageous! Be strong!",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 103,
+      "reference": "Ephesians 6:10",
+      "translation": "WEB",
+      "text": "Finally, be strong in the Lord, and in the strength of his might.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 104,
+      "reference": "Nehemiah 8:10",
+      "translation": "WEB",
+      "text": "Then he said to them, “Go your way. Eat the fat, drink the sweet, and send portions to him for whom nothing is prepared, for today is holy to our Lord. Don’t be grieved, for the joy of Yahweh is your strength.”",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 105,
+      "reference": "Exodus 15:2",
+      "translation": "WEB",
+      "text": "Yah is my strength and song. He has become my salvation. This is my God, and I will praise him; my father’s God, and I will exalt him.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 106,
+      "reference": "Habakkuk 3:19",
+      "translation": "WEB",
+      "text": "Yahweh, the Lord, is my strength. He makes my feet like deer’s feet, and enables me to go in high places. For the music director, on my stringed instruments.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 107,
+      "reference": "2 Samuel 22:33",
+      "translation": "WEB",
+      "text": "God is my strong fortress. He makes my way perfect.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 108,
+      "reference": "Psalm 18:2",
+      "translation": "WEB",
+      "text": "Yahweh is my rock, my fortress, and my deliverer; my God, my rock, in whom I take refuge; my shield, and the horn of my salvation, my high tower.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 109,
+      "reference": "Psalm 18:32",
+      "translation": "WEB",
+      "text": "the God who arms me with strength, and makes my way perfect?",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 110,
+      "reference": "Psalm 18:39",
+      "translation": "WEB",
+      "text": "For you have armed me with strength to the battle. You have subdued under me those who rose up against me.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 111,
+      "reference": "Isaiah 12:2",
+      "translation": "WEB",
+      "text": "Behold, God is my salvation. I will trust, and will not be afraid; for Yah, Yahweh, is my strength and song; and he has become my salvation.”",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 112,
+      "reference": "Proverbs 28:1",
+      "translation": "WEB",
+      "text": "The wicked flee when no one pursues; but the righteous are as bold as a lion.",
+      "category": "Strength and Courage",
+      "difficulty": 1
+    },
+    {
+      "id": 113,
+      "reference": "1 Thessalonians 5:17",
+      "translation": "WEB",
+      "text": "Pray without ceasing.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 114,
+      "reference": "Philippians 4:6",
+      "translation": "WEB",
+      "text": "In nothing be anxious, but in everything, by prayer and petition with thanksgiving, let your requests be made known to God.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 115,
+      "reference": "Philippians 4:7",
+      "translation": "WEB",
+      "text": "And the peace of God, which surpasses all understanding, will guard your hearts and your thoughts in Christ Jesus.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 116,
+      "reference": "Matthew 6:6",
+      "translation": "WEB",
+      "text": "But you, when you pray, enter into your inner room, and having shut your door, pray to your Father who is in secret, and your Father who sees in secret will reward you openly.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 117,
+      "reference": "Matthew 6:7",
+      "translation": "WEB",
+      "text": "In praying, don’t use vain repetitions, as the Gentiles do; for they think that they will be heard for their much speaking.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 118,
+      "reference": "Matthew 6:9",
+      "translation": "WEB",
+      "text": "Pray like this: ‘Our Father in heaven, may your name be kept holy.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 119,
+      "reference": "Matthew 6:10",
+      "translation": "WEB",
+      "text": "Let your Kingdom come. Let your will be done on earth as it is in heaven.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 120,
+      "reference": "Matthew 6:11",
+      "translation": "WEB",
+      "text": "Give us today our daily bread.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 121,
+      "reference": "Matthew 6:12",
+      "translation": "WEB",
+      "text": "Forgive us our debts, as we also forgive our debtors.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 122,
+      "reference": "Matthew 6:13",
+      "translation": "WEB",
+      "text": "Bring us not into temptation, but deliver us from the evil one. For yours is the Kingdom, the power, and the glory forever. Amen.’",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 123,
+      "reference": "Matthew 7:7",
+      "translation": "WEB",
+      "text": "“Ask, and it will be given you. Seek, and you will find. Knock, and it will be opened for you.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 124,
+      "reference": "Matthew 7:8",
+      "translation": "WEB",
+      "text": "For everyone who asks receives. He who seeks finds. To him who knocks it will be opened.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 125,
+      "reference": "Mark 11:24",
+      "translation": "WEB",
+      "text": "Therefore I tell you, all things whatever you pray and ask for, believe that you have received them, and you shall have them.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 126,
+      "reference": "Luke 11:9",
+      "translation": "WEB",
+      "text": "“I tell you, keep asking, and it will be given you. Keep seeking, and you will find. Keep knocking, and it will be opened to you.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 127,
+      "reference": "Luke 18:1",
+      "translation": "WEB",
+      "text": "He also spoke a parable to them that they must always pray, and not give up,",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 128,
+      "reference": "John 14:13",
+      "translation": "WEB",
+      "text": "Whatever you will ask in my name, I will do it, that the Father may be glorified in the Son.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 129,
+      "reference": "John 14:14",
+      "translation": "WEB",
+      "text": "If you will ask anything in my name, I will do it.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 130,
+      "reference": "John 15:7",
+      "translation": "WEB",
+      "text": "If you remain in me, and my words remain in you, you will ask whatever you desire, and it will be done for you.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 131,
+      "reference": "James 5:16",
+      "translation": "WEB",
+      "text": "Confess your offenses to one another, and pray for one another, that you may be healed. The insistent prayer of a righteous person is powerfully effective.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 132,
+      "reference": "James 1:5",
+      "translation": "WEB",
+      "text": "But if any of you lacks wisdom, let him ask of God, who gives to all liberally and without reproach, and it will be given to him.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 133,
+      "reference": "1 John 5:14",
+      "translation": "WEB",
+      "text": "This is the boldness which we have toward him, that if we ask anything according to his will, he listens to us.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 134,
+      "reference": "1 John 5:15",
+      "translation": "WEB",
+      "text": "And if we know that he listens to us, whatever we ask, we know that we have the petitions which we have asked of him.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 135,
+      "reference": "Jeremiah 33:3",
+      "translation": "WEB",
+      "text": "‘Call to me, and I will answer you, and will show you great and difficult things, which you don’t know.’",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 136,
+      "reference": "Psalm 55:17",
+      "translation": "WEB",
+      "text": "Evening, morning, and at noon, I will cry out in distress. He will hear my voice.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 137,
+      "reference": "Psalm 66:19",
+      "translation": "WEB",
+      "text": "But most certainly, God has listened. He has heard the voice of my prayer.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 138,
+      "reference": "Psalm 145:18",
+      "translation": "WEB",
+      "text": "Yahweh is near to all those who call on him, to all who call on him in truth.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 139,
+      "reference": "Psalm 19:14",
+      "translation": "WEB",
+      "text": "Let the words of my mouth and the meditation of my heart be acceptable in your sight, Yahweh, my rock, and my redeemer.",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 140,
+      "reference": "Colossians 4:2",
+      "translation": "WEB",
+      "text": "Continue steadfastly in prayer, watching in it with thanksgiving,",
+      "category": "Prayer",
+      "difficulty": 1
+    },
+    {
+      "id": 141,
+      "reference": "Proverbs 1:7",
+      "translation": "WEB",
+      "text": "The fear of Yahweh is the beginning of knowledge; but the foolish despise wisdom and instruction.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 142,
+      "reference": "Proverbs 2:6",
+      "translation": "WEB",
+      "text": "For Yahweh gives wisdom. Out of his mouth comes knowledge and understanding.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 143,
+      "reference": "Proverbs 3:5",
+      "translation": "WEB",
+      "text": "Trust in Yahweh with all your heart, and don’t lean on your own understanding.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 144,
+      "reference": "Proverbs 3:6",
+      "translation": "WEB",
+      "text": "In all your ways acknowledge him, and he will make your paths straight.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 145,
+      "reference": "Proverbs 3:7",
+      "translation": "WEB",
+      "text": "Don’t be wise in your own eyes. Fear Yahweh, and depart from evil.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 146,
+      "reference": "Proverbs 4:7",
+      "translation": "WEB",
+      "text": "Wisdom is supreme. Get wisdom. Yes, though it costs all your possessions, get understanding.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 147,
+      "reference": "Proverbs 8:11",
+      "translation": "WEB",
+      "text": "For wisdom is better than rubies. All the things that may be desired can’t be compared to it.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 148,
+      "reference": "Proverbs 9:10",
+      "translation": "WEB",
+      "text": "The fear of Yahweh is the beginning of wisdom. The knowledge of the Holy One is understanding.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 149,
+      "reference": "Proverbs 10:8",
+      "translation": "WEB",
+      "text": "The wise in heart accept commandments, but a chattering fool will fall.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 150,
+      "reference": "Proverbs 11:2",
+      "translation": "WEB",
+      "text": "When pride comes, then comes shame, but with humility comes wisdom.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 151,
+      "reference": "Proverbs 12:15",
+      "translation": "WEB",
+      "text": "The way of a fool is right in his own eyes, but he who is wise listens to counsel.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 152,
+      "reference": "Proverbs 13:10",
+      "translation": "WEB",
+      "text": "Pride only breeds quarrels, but wisdom is with people who take advice.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 153,
+      "reference": "Proverbs 14:16",
+      "translation": "WEB",
+      "text": "A wise man fears and shuns evil, but the fool is hot headed and reckless.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 154,
+      "reference": "Proverbs 15:1",
+      "translation": "WEB",
+      "text": "A gentle answer turns away wrath, but a harsh word stirs up anger.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 155,
+      "reference": "Proverbs 15:22",
+      "translation": "WEB",
+      "text": "Where there is no counsel, plans fail; but in a multitude of counselors they are established.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 156,
+      "reference": "Proverbs 16:3",
+      "translation": "WEB",
+      "text": "Commit your deeds to Yahweh, and your plans shall succeed.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 157,
+      "reference": "Proverbs 16:9",
+      "translation": "WEB",
+      "text": "A man’s heart plans his course, but Yahweh directs his steps.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 158,
+      "reference": "Proverbs 16:16",
+      "translation": "WEB",
+      "text": "How much better it is to get wisdom than gold! Yes, to get understanding is to be chosen rather than silver.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 159,
+      "reference": "Proverbs 17:27",
+      "translation": "WEB",
+      "text": "He who spares his words has knowledge. He who is even tempered is a man of understanding.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 160,
+      "reference": "Proverbs 18:15",
+      "translation": "WEB",
+      "text": "The heart of the discerning gets knowledge. The ear of the wise seeks knowledge.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 161,
+      "reference": "Proverbs 19:20",
+      "translation": "WEB",
+      "text": "Listen to counsel and receive instruction, that you may be wise in your latter end.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 162,
+      "reference": "Proverbs 20:5",
+      "translation": "WEB",
+      "text": "Counsel in the heart of man is like deep water, but a man of understanding will draw it out.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 163,
+      "reference": "Proverbs 24:3",
+      "translation": "WEB",
+      "text": "Through wisdom a house is built; by understanding it is established;",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 164,
+      "reference": "Proverbs 27:17",
+      "translation": "WEB",
+      "text": "Iron sharpens iron; so a man sharpens his friend’s countenance.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 165,
+      "reference": "Psalm 25:5",
+      "translation": "WEB",
+      "text": "Guide me in your truth, and teach me, For you are the God of my salvation, I wait for you all day long.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 166,
+      "reference": "James 3:17",
+      "translation": "WEB",
+      "text": "But the wisdom that is from above is first pure, then peaceful, gentle, reasonable, full of mercy and good fruits, without partiality, and without hypocrisy.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 167,
+      "reference": "Ecclesiastes 7:12",
+      "translation": "WEB",
+      "text": "For wisdom is a defense, even as money is a defense; but the excellency of knowledge is that wisdom preserves the life of him who has it.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 168,
+      "reference": "Colossians 3:16",
+      "translation": "WEB",
+      "text": "Let the word of Christ dwell in you richly; in all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with grace in your heart to the Lord.",
+      "category": "Wisdom",
+      "difficulty": 1
+    },
+    {
+      "id": 169,
+      "reference": "Ephesians 4:32",
+      "translation": "WEB",
+      "text": "And be kind to one another, tender hearted, forgiving each other, just as God also in Christ forgave you.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 170,
+      "reference": "Colossians 3:13",
+      "translation": "WEB",
+      "text": "bearing with one another, and forgiving each other, if any man has a complaint against any; even as Christ forgave you, so you also do.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 171,
+      "reference": "Matthew 6:14",
+      "translation": "WEB",
+      "text": "“For if you forgive men their trespasses, your heavenly Father will also forgive you.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 172,
+      "reference": "Matthew 6:15",
+      "translation": "WEB",
+      "text": "But if you don’t forgive men their trespasses, neither will your Father forgive your trespasses.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 173,
+      "reference": "Matthew 18:21",
+      "translation": "WEB",
+      "text": "Then Peter came and said to him, “Lord, how often shall my brother sin against me, and I forgive him? Until seven times?”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 174,
+      "reference": "Matthew 18:22",
+      "translation": "WEB",
+      "text": "Jesus said to him, “I don’t tell you until seven times, but, until seventy times seven.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 175,
+      "reference": "Mark 11:25",
+      "translation": "WEB",
+      "text": "Whenever you stand praying, forgive, if you have anything against anyone; so that your Father, who is in heaven, may also forgive you your transgressions.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 176,
+      "reference": "Luke 6:37",
+      "translation": "WEB",
+      "text": "Don’t judge, and you won’t be judged. Don’t condemn, and you won’t be condemned. Set free, and you will be set free.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 177,
+      "reference": "Luke 17:3",
+      "translation": "WEB",
+      "text": "Be careful. If your brother sins against you, rebuke him. If he repents, forgive him.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 178,
+      "reference": "Luke 17:4",
+      "translation": "WEB",
+      "text": "If he sins against you seven times in the day, and seven times returns, saying, ‘I repent,’ you shall forgive him.”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 179,
+      "reference": "1 John 1:9",
+      "translation": "WEB",
+      "text": "If we confess our sins, he is faithful and righteous to forgive us the sins, and to cleanse us from all unrighteousness.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 180,
+      "reference": "Psalm 103:12",
+      "translation": "WEB",
+      "text": "As far as the east is from the west, so far has he removed our transgressions from us.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 181,
+      "reference": "Psalm 32:1",
+      "translation": "WEB",
+      "text": "Blessed is he whose disobedience is forgiven, whose sin is covered.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 182,
+      "reference": "Psalm 32:5",
+      "translation": "WEB",
+      "text": "I acknowledged my sin to you. I didn’t hide my iniquity. I said, I will confess my transgressions to Yahweh, and you forgave the iniquity of my sin.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 183,
+      "reference": "Psalm 86:5",
+      "translation": "WEB",
+      "text": "For you, Lord, are good, and ready to forgive, abundant in loving kindness to all those who call on you.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 184,
+      "reference": "Psalm 130:4",
+      "translation": "WEB",
+      "text": "But there is forgiveness with you, therefore you are feared.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 185,
+      "reference": "Isaiah 1:18",
+      "translation": "WEB",
+      "text": "“Come now, and let’s reason together,” says Yahweh: “Though your sins are as scarlet, they shall be as white as snow. Though they are red like crimson, they shall be as wool.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 186,
+      "reference": "Isaiah 43:25",
+      "translation": "WEB",
+      "text": "I, even I, am he who blots out your transgressions for my own sake; and I will not remember your sins.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 187,
+      "reference": "Isaiah 44:22",
+      "translation": "WEB",
+      "text": "I have blotted out, as a thick cloud, your transgressions, and, as a cloud, your sins. Return to me, for I have redeemed you.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 188,
+      "reference": "Micah 7:18",
+      "translation": "WEB",
+      "text": "Who is a God like you, who pardons iniquity, and passes over the disobedience of the remnant of his heritage? He doesn’t retain his anger forever, because he delights in loving kindness.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 189,
+      "reference": "Micah 7:19",
+      "translation": "WEB",
+      "text": "He will again have compassion on us. He will tread our iniquities under foot; and you will cast all their sins into the depths of the sea.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 190,
+      "reference": "Daniel 9:9",
+      "translation": "WEB",
+      "text": "To the Lord our God belong mercies and forgiveness; for we have rebelled against him.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 191,
+      "reference": "Acts 3:19",
+      "translation": "WEB",
+      "text": "“Repent therefore, and turn again, that your sins may be blotted out, so that there may come times of refreshing from the presence of the Lord,",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 192,
+      "reference": "Acts 10:43",
+      "translation": "WEB",
+      "text": "All the prophets testify about him, that through his name everyone who believes in him will receive remission of sins.”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 193,
+      "reference": "Romans 4:7",
+      "translation": "WEB",
+      "text": "“Blessed are they whose iniquities are forgiven, whose sins are covered.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 194,
+      "reference": "2 Corinthians 2:7",
+      "translation": "WEB",
+      "text": "so that on the contrary you should rather forgive him and comfort him, lest by any means such a one should be swallowed up with his excessive sorrow.",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 195,
+      "reference": "Hebrews 8:12",
+      "translation": "WEB",
+      "text": "For I will be merciful to their unrighteousness. I will remember their sins and lawless deeds no more.”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 196,
+      "reference": "Hebrews 10:17",
+      "translation": "WEB",
+      "text": "“I will remember their sins and their iniquities no more.”",
+      "category": "Forgiveness",
+      "difficulty": 1
+    },
+    {
+      "id": 197,
+      "reference": "John 14:27",
+      "translation": "WEB",
+      "text": "Peace I leave with you. My peace I give to you; not as the world gives, I give to you. Don’t let your heart be troubled, neither let it be fearful.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 198,
+      "reference": "John 16:33",
+      "translation": "WEB",
+      "text": "I have told you these things, that in me you may have peace. In the world you have trouble; but cheer up! I have overcome the world.”",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 199,
+      "reference": "Psalm 33:18",
+      "translation": "WEB",
+      "text": "Behold, Yahweh’s eye is on those who fear him, on those who hope in his loving kindness,",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 200,
+      "reference": "Colossians 3:15",
+      "translation": "WEB",
+      "text": "And let the peace of God rule in your hearts, to which also you were called in one body, and be thankful.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 201,
+      "reference": "Romans 5:1",
+      "translation": "WEB",
+      "text": "Being therefore justified by faith, we have peace with God through our Lord Jesus Christ;",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 202,
+      "reference": "Romans 8:6",
+      "translation": "WEB",
+      "text": "For the mind of the flesh is death, but the mind of the Spirit is life and peace;",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 203,
+      "reference": "Romans 12:18",
+      "translation": "WEB",
+      "text": "If it is possible, as much as it is up to you, be at peace with all men.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 204,
+      "reference": "Romans 14:19",
+      "translation": "WEB",
+      "text": "So then, let’s follow after things which make for peace, and things by which we may build one another up.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 205,
+      "reference": "Psalm 37:7",
+      "translation": "WEB",
+      "text": "Rest in Yahweh, and wait patiently for him. Don’t fret because of him who prospers in his way, because of the man who makes wicked plots happen.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 206,
+      "reference": "2 Thessalonians 3:16",
+      "translation": "WEB",
+      "text": "Now may the Lord of peace himself give you peace at all times in all ways. The Lord be with you all.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 207,
+      "reference": "Isaiah 26:3",
+      "translation": "WEB",
+      "text": "You will keep whoever’s mind is steadfast in perfect peace, because he trusts in you.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 208,
+      "reference": "Isaiah 26:12",
+      "translation": "WEB",
+      "text": "Yahweh, you will ordain peace for us, for you have also done all our work for us.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 209,
+      "reference": "Isaiah 32:17",
+      "translation": "WEB",
+      "text": "The work of righteousness will be peace, and the effect of righteousness, quietness and confidence forever.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 210,
+      "reference": "Isaiah 54:10",
+      "translation": "WEB",
+      "text": "For the mountains may depart, and the hills be removed; but my loving kindness will not depart from you, and my covenant of peace will not be removed,” says Yahweh who has mercy on you.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 211,
+      "reference": "Psalm 4:8",
+      "translation": "WEB",
+      "text": "In peace I will both lay myself down and sleep, for you, Yahweh alone, make me live in safety.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 212,
+      "reference": "Psalm 29:11",
+      "translation": "WEB",
+      "text": "Yahweh will give strength to his people. Yahweh will bless his people with peace.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 213,
+      "reference": "Psalm 34:14",
+      "translation": "WEB",
+      "text": "Depart from evil, and do good. Seek peace, and pursue it.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 214,
+      "reference": "Psalm 85:8",
+      "translation": "WEB",
+      "text": "I will hear what God, Yahweh, will speak, for he will speak peace to his people, his saints; but let them not turn again to folly.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 215,
+      "reference": "Psalm 119:165",
+      "translation": "WEB",
+      "text": "Those who love your law have great peace. Nothing causes them to stumble.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 216,
+      "reference": "Psalm 122:6",
+      "translation": "WEB",
+      "text": "Pray for the peace of Jerusalem. Those who love you will prosper.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 217,
+      "reference": "Proverbs 3:17",
+      "translation": "WEB",
+      "text": "Her ways are ways of pleasantness. All her paths are peace.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 218,
+      "reference": "Proverbs 12:20",
+      "translation": "WEB",
+      "text": "Deceit is in the heart of those who plot evil, but joy comes to the promoters of peace.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 219,
+      "reference": "Matthew 5:9",
+      "translation": "WEB",
+      "text": "Blessed are the peacemakers, for they shall be called children of God.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 220,
+      "reference": "Matthew 11:28",
+      "translation": "WEB",
+      "text": "“Come to me, all you who labor and are heavily burdened, and I will give you rest.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 221,
+      "reference": "Matthew 11:29",
+      "translation": "WEB",
+      "text": "Take my yoke upon you, and learn from me, for I am gentle and humble in heart; and you will find rest for your souls.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 222,
+      "reference": "Hebrews 12:14",
+      "translation": "WEB",
+      "text": "Follow after peace with all men, and the sanctification without which no man will see the Lord,",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 223,
+      "reference": "James 3:18",
+      "translation": "WEB",
+      "text": "Now the fruit of righteousness is sown in peace by those who make peace.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 224,
+      "reference": "1 Peter 3:11",
+      "translation": "WEB",
+      "text": "Let him turn away from evil and do good. Let him seek peace and pursue it.",
+      "category": "Peace",
+      "difficulty": 1
+    },
+    {
+      "id": 225,
+      "reference": "John 3:16",
+      "translation": "WEB",
+      "text": "For God so loved the world, that he gave his one and only Son, that whoever believes in him should not perish, but have eternal life.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 226,
+      "reference": "John 3:17",
+      "translation": "WEB",
+      "text": "For God didn’t send his Son into the world to judge the world, but that the world should be saved through him.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 227,
+      "reference": "John 3:18",
+      "translation": "WEB",
+      "text": "He who believes in him is not judged. He who doesn’t believe has been judged already, because he has not believed in the name of the one and only Son of God.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 228,
+      "reference": "John 5:24",
+      "translation": "WEB",
+      "text": "“Most certainly I tell you, he who hears my word and believes him who sent me has eternal life, and doesn’t come into judgment, but has passed out of death into life.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 229,
+      "reference": "John 6:40",
+      "translation": "WEB",
+      "text": "This is the will of the one who sent me, that everyone who sees the Son, and believes in him, should have eternal life; and I will raise him up at the last day.”",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 230,
+      "reference": "John 10:9",
+      "translation": "WEB",
+      "text": "I am the door. If anyone enters in by me, he will be saved, and will go in and go out, and will find pasture.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 231,
+      "reference": "Psalm 40:1",
+      "translation": "WEB",
+      "text": "I waited patiently for Yahweh. He turned to me, and heard my cry.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 232,
+      "reference": "John 14:6",
+      "translation": "WEB",
+      "text": "Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father, except through me.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 233,
+      "reference": "Acts 4:12",
+      "translation": "WEB",
+      "text": "There is salvation in no one else, for there is no other name under heaven that is given among men, by which we must be saved!”",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 234,
+      "reference": "Psalm 51:10",
+      "translation": "WEB",
+      "text": "Create in me a clean heart, O God. Renew a right spirit within me.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 235,
+      "reference": "Romans 3:23",
+      "translation": "WEB",
+      "text": "for all have sinned, and fall short of the glory of God;",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 236,
+      "reference": "Romans 3:24",
+      "translation": "WEB",
+      "text": "being justified freely by his grace through the redemption that is in Christ Jesus;",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 237,
+      "reference": "Romans 5:8",
+      "translation": "WEB",
+      "text": "But God commends his own love toward us, in that while we were yet sinners, Christ died for us.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 238,
+      "reference": "Romans 6:23",
+      "translation": "WEB",
+      "text": "For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 239,
+      "reference": "Romans 10:9",
+      "translation": "WEB",
+      "text": "that if you will confess with your mouth that Jesus is Lord, and believe in your heart that God raised him from the dead, you will be saved.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 240,
+      "reference": "Romans 10:10",
+      "translation": "WEB",
+      "text": "For with the heart, one believes resulting in righteousness; and with the mouth confession is made resulting in salvation.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 241,
+      "reference": "Romans 10:13",
+      "translation": "WEB",
+      "text": "For, “Whoever will call on the name of the Lord will be saved.”",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 242,
+      "reference": "Psalm 56:3",
+      "translation": "WEB",
+      "text": "When I am afraid, I will put my trust in you.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 243,
+      "reference": "Ephesians 2:9",
+      "translation": "WEB",
+      "text": "not of works, that no one would boast.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 244,
+      "reference": "Titus 3:5",
+      "translation": "WEB",
+      "text": "not by works of righteousness which we did ourselves, but according to his mercy, he saved us through the washing of regeneration and renewing by the Holy Spirit,",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 245,
+      "reference": "1 Timothy 2:5",
+      "translation": "WEB",
+      "text": "For there is one God, and one mediator between God and men, the man Christ Jesus,",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 246,
+      "reference": "2 Timothy 1:9",
+      "translation": "WEB",
+      "text": "who saved us and called us with a holy calling, not according to our works, but according to his own purpose and grace, which was given to us in Christ Jesus before times eternal,",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 247,
+      "reference": "Hebrews 7:25",
+      "translation": "WEB",
+      "text": "Therefore he is also able to save to the uttermost those who draw near to God through him, seeing that he lives forever to make intercession for them.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 248,
+      "reference": "Psalm 63:3",
+      "translation": "WEB",
+      "text": "Because your loving kindness is better than life, my lips shall praise you.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 249,
+      "reference": "1 Peter 2:24",
+      "translation": "WEB",
+      "text": "He himself bore our sins in his body on the tree, that we, having died to sins, might live to righteousness. You were healed by his wounds.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 250,
+      "reference": "1 John 5:11",
+      "translation": "WEB",
+      "text": "The testimony is this, that God gave to us eternal life, and this life is in his Son.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 251,
+      "reference": "1 John 5:12",
+      "translation": "WEB",
+      "text": "He who has the Son has the life. He who doesn’t have God’s Son doesn’t have the life.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 252,
+      "reference": "Revelation 3:20",
+      "translation": "WEB",
+      "text": "Behold, I stand at the door and knock. If anyone hears my voice and opens the door, then I will come in to him, and will dine with him, and he with me.",
+      "category": "Salvation",
+      "difficulty": 1
+    },
+    {
+      "id": 253,
+      "reference": "Genesis 9:13",
+      "translation": "WEB",
+      "text": "I set my rainbow in the cloud, and it will be a sign of a covenant between me and the earth.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 254,
+      "reference": "Genesis 28:15",
+      "translation": "WEB",
+      "text": "Behold, I am with you, and will keep you, wherever you go, and will bring you again into this land. For I will not leave you, until I have done that which I have spoken of to you.”",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 255,
+      "reference": "Exodus 14:14",
+      "translation": "WEB",
+      "text": "Yahweh will fight for you, and you shall be still.”",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 256,
+      "reference": "Deuteronomy 7:9",
+      "translation": "WEB",
+      "text": "Know therefore that Yahweh your God himself is God, the faithful God, who keeps covenant and loving kindness with them who love him and keep his commandments to a thousand generations,",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 257,
+      "reference": "Psalm 90:12",
+      "translation": "WEB",
+      "text": "So teach us to count our days, that we may gain a heart of wisdom.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 258,
+      "reference": "Joshua 1:5",
+      "translation": "WEB",
+      "text": "No man will be able to stand before you all the days of your life. As I was with Moses, so I will be with you. I will not fail you nor forsake you.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 259,
+      "reference": "Psalm 23:1",
+      "translation": "WEB",
+      "text": "Yahweh is my shepherd: I shall lack nothing.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 260,
+      "reference": "Psalm 23:4",
+      "translation": "WEB",
+      "text": "Even though I walk through the valley of the shadow of death, I will fear no evil, for you are with me. Your rod and your staff, they comfort me.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 261,
+      "reference": "Psalm 34:17",
+      "translation": "WEB",
+      "text": "The righteous cry, and Yahweh hears, and delivers them out of all their troubles.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 262,
+      "reference": "Psalm 37:4",
+      "translation": "WEB",
+      "text": "Also delight yourself in Yahweh, and he will give you the desires of your heart.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 263,
+      "reference": "Psalm 119:11",
+      "translation": "WEB",
+      "text": "I have hidden your word in my heart, that I might not sin against you.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 264,
+      "reference": "Psalm 84:11",
+      "translation": "WEB",
+      "text": "For Yahweh God is a sun and a shield. Yahweh will give grace and glory. He withholds no good thing from those who walk blamelessly.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 265,
+      "reference": "Psalm 91:4",
+      "translation": "WEB",
+      "text": "He will cover you with his feathers. Under his wings you will take refuge. His faithfulness is your shield and rampart.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 266,
+      "reference": "Psalm 121:7",
+      "translation": "WEB",
+      "text": "Yahweh will keep you from all evil. He will keep your soul.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 267,
+      "reference": "Psalm 121:8",
+      "translation": "WEB",
+      "text": "Yahweh will keep your going out and your coming in, from this time forward, and forever more.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 268,
+      "reference": "Psalm 119:105",
+      "translation": "WEB",
+      "text": "Your word is a lamp to my feet, and a light for my path.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 269,
+      "reference": "Psalm 143:8",
+      "translation": "WEB",
+      "text": "Cause me to hear your loving kindness in the morning, for I trust in you. Cause me to know the way in which I should walk, for I lift up my soul to you.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 270,
+      "reference": "Proverbs 15:13",
+      "translation": "WEB",
+      "text": "A glad heart makes a cheerful face, but an aching heart breaks the spirit.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 271,
+      "reference": "Isaiah 43:2",
+      "translation": "WEB",
+      "text": "When you pass through the waters, I will be with you, and through the rivers, they will not overflow you. When you walk through the fire, you will not be burned, and flame will not scorch you.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 272,
+      "reference": "Proverbs 17:22",
+      "translation": "WEB",
+      "text": "A cheerful heart makes good medicine, but a crushed spirit dries up the bones.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 273,
+      "reference": "Isaiah 55:6",
+      "translation": "WEB",
+      "text": "Seek Yahweh while he may be found. Call on him while he is near.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 274,
+      "reference": "Matthew 6:33",
+      "translation": "WEB",
+      "text": "But seek first God’s Kingdom, and his righteousness; and all these things will be given to you as well.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 275,
+      "reference": "Matthew 7:11",
+      "translation": "WEB",
+      "text": "If you then, being evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 276,
+      "reference": "Isaiah 55:12",
+      "translation": "WEB",
+      "text": "For you shall go out with joy, and be led out with peace. The mountains and the hills will break out before you into singing; and all the trees of the fields will clap their hands.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 277,
+      "reference": "John 10:28",
+      "translation": "WEB",
+      "text": "I give eternal life to them. They will never perish, and no one will snatch them out of my hand.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 278,
+      "reference": "Romans 8:28",
+      "translation": "WEB",
+      "text": "We know that all things work together for good for those who love God, for those who are called according to his purpose.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 279,
+      "reference": "Philippians 4:19",
+      "translation": "WEB",
+      "text": "My God will supply every need of yours according to his riches in glory in Christ Jesus.",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 280,
+      "reference": "Hebrews 13:5",
+      "translation": "WEB",
+      "text": "Be free from the love of money, content with such things as you have, for he has said, “I will in no way leave you, neither will I in any way forsake you.”",
+      "category": "God's Promises",
+      "difficulty": 1
+    },
+    {
+      "id": 281,
+      "reference": "Psalm 100:1",
+      "translation": "WEB",
+      "text": "Shout for joy to Yahweh, all you lands!",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 282,
+      "reference": "Psalm 100:2",
+      "translation": "WEB",
+      "text": "Serve Yahweh with gladness. Come before his presence with singing.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 283,
+      "reference": "Psalm 100:4",
+      "translation": "WEB",
+      "text": "Enter into his gates with thanksgiving, and into his courts with praise. Give thanks to him, and bless his name.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 284,
+      "reference": "Psalm 100:5",
+      "translation": "WEB",
+      "text": "For Yahweh is good. His loving kindness endures forever, his faithfulness to all generations.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 285,
+      "reference": "Psalm 107:1",
+      "translation": "WEB",
+      "text": "Give thanks to Yahweh, for he is good, for his loving kindness endures forever.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 286,
+      "reference": "Psalm 118:24",
+      "translation": "WEB",
+      "text": "This is the day that Yahweh has made. We will rejoice and be glad in it!",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 287,
+      "reference": "Psalm 136:1",
+      "translation": "WEB",
+      "text": "Give thanks to Yahweh, for he is good; for his loving kindness endures forever.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 288,
+      "reference": "Psalm 95:1",
+      "translation": "WEB",
+      "text": "Oh come, let’s sing to Yahweh. Let’s shout aloud to the rock of our salvation!",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 289,
+      "reference": "Psalm 95:2",
+      "translation": "WEB",
+      "text": "Let’s come before his presence with thanksgiving. Let’s extol him with songs!",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 290,
+      "reference": "Psalm 9:1",
+      "translation": "WEB",
+      "text": "I will give thanks to Yahweh with my whole heart. I will tell of all your marvelous works.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 291,
+      "reference": "Psalm 30:5",
+      "translation": "WEB",
+      "text": "For his anger is but for a moment. His favor is for a lifetime. Weeping may stay for the night, but joy comes in the morning.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 292,
+      "reference": "Psalm 34:1",
+      "translation": "WEB",
+      "text": "I will bless Yahweh at all times. His praise will always be in my mouth.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 293,
+      "reference": "Psalm 69:30",
+      "translation": "WEB",
+      "text": "I will praise the name of God with a song, and will magnify him with thanksgiving.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 294,
+      "reference": "Psalm 92:1",
+      "translation": "WEB",
+      "text": "It is a good thing to give thanks to Yahweh, to sing praises to your name, Most High,",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 295,
+      "reference": "Psalm 103:1",
+      "translation": "WEB",
+      "text": "Praise Yahweh, my soul! All that is within me, praise his holy name!",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 296,
+      "reference": "Psalm 126:3",
+      "translation": "WEB",
+      "text": "Yahweh has done great things for us, and we are glad.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 297,
+      "reference": "Psalm 147:1",
+      "translation": "WEB",
+      "text": "Praise Yah, for it is good to sing praises to our God; for it is pleasant and fitting to praise him.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 298,
+      "reference": "Matthew 5:16",
+      "translation": "WEB",
+      "text": "Even so, let your light shine before men; that they may see your good works, and glorify your Father who is in heaven.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 299,
+      "reference": "Philippians 4:4",
+      "translation": "WEB",
+      "text": "Rejoice in the Lord always! Again I will say, “Rejoice!”",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 300,
+      "reference": "1 Thessalonians 5:16",
+      "translation": "WEB",
+      "text": "Always rejoice.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 301,
+      "reference": "1 Thessalonians 5:18",
+      "translation": "WEB",
+      "text": "In everything give thanks, for this is the will of God in Christ Jesus toward you.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 302,
+      "reference": "Matthew 6:21",
+      "translation": "WEB",
+      "text": "for where your treasure is, there your heart will be also.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 303,
+      "reference": "Colossians 3:17",
+      "translation": "WEB",
+      "text": "Whatever you do, in word or in deed, do all in the name of the Lord Jesus, giving thanks to God the Father, through him.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 304,
+      "reference": "James 1:17",
+      "translation": "WEB",
+      "text": "Every good gift and every perfect gift is from above, coming down from the Father of lights, with whom can be no variation, nor turning shadow.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 305,
+      "reference": "Luke 10:20",
+      "translation": "WEB",
+      "text": "Nevertheless, don’t rejoice in this, that the spirits are subject to you, but rejoice that your names are written in heaven.”",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 306,
+      "reference": "Luke 12:32",
+      "translation": "WEB",
+      "text": "Don’t be afraid, little flock, for it is your Father’s good pleasure to give you the Kingdom.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 307,
+      "reference": "John 15:11",
+      "translation": "WEB",
+      "text": "I have spoken these things to you, that my joy may remain in you, and that your joy may be made full.",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 308,
+      "reference": "Habakkuk 3:18",
+      "translation": "WEB",
+      "text": "yet I will rejoice in Yahweh. I will be joyful in the God of my salvation!",
+      "category": "Gratitude and Joy",
+      "difficulty": 1
+    },
+    {
+      "id": 309,
+      "reference": "Genesis 1:1",
+      "translation": "WEB",
+      "text": "In the beginning, God created the heavens and the earth.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 310,
+      "reference": "Genesis 1:10",
+      "translation": "WEB",
+      "text": "God called the dry land “earth”, and the gathering together of the waters he called “seas”. God saw that it was good.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 311,
+      "reference": "Genesis 1:11",
+      "translation": "WEB",
+      "text": "God said, “Let the earth yield grass, herbs yielding seeds, and fruit trees bearing fruit after their kind, with their seeds in it, on the earth;” and it was so.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 312,
+      "reference": "Genesis 1:12",
+      "translation": "WEB",
+      "text": "The earth yielded grass, herbs yielding seed after their kind, and trees bearing fruit, with their seeds in it, after their kind; and God saw that it was good.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 313,
+      "reference": "Genesis 1:13",
+      "translation": "WEB",
+      "text": "There was evening and there was morning, a third day.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 314,
+      "reference": "Genesis 1:14",
+      "translation": "WEB",
+      "text": "God said, “Let there be lights in the expanse of the sky to divide the day from the night; and let them be for signs to mark seasons, days, and years;",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 315,
+      "reference": "Genesis 1:15",
+      "translation": "WEB",
+      "text": "and let them be for lights in the expanse of the sky to give light on the earth;” and it was so.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 316,
+      "reference": "Genesis 1:16",
+      "translation": "WEB",
+      "text": "God made the two great lights: the greater light to rule the day, and the lesser light to rule the night. He also made the stars.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 317,
+      "reference": "Genesis 1:17",
+      "translation": "WEB",
+      "text": "God set them in the expanse of the sky to give light to the earth,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 318,
+      "reference": "Genesis 1:18",
+      "translation": "WEB",
+      "text": "and to rule over the day and over the night, and to divide the light from the darkness. God saw that it was good.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 319,
+      "reference": "Genesis 1:19",
+      "translation": "WEB",
+      "text": "There was evening and there was morning, a fourth day.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 320,
+      "reference": "Genesis 1:2",
+      "translation": "WEB",
+      "text": "The earth was formless and empty. Darkness was on the surface of the deep and God’s Spirit was hovering over the surface of the waters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 321,
+      "reference": "Genesis 1:20",
+      "translation": "WEB",
+      "text": "God said, “Let the waters abound with living creatures, and let birds fly above the earth in the open expanse of the sky.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 322,
+      "reference": "Genesis 1:21",
+      "translation": "WEB",
+      "text": "God created the large sea creatures and every living creature that moves, with which the waters swarmed, after their kind, and every winged bird after its kind. God saw that it was good.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 323,
+      "reference": "Genesis 1:22",
+      "translation": "WEB",
+      "text": "God blessed them, saying, “Be fruitful, and multiply, and fill the waters in the seas, and let birds multiply on the earth.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 324,
+      "reference": "Genesis 1:23",
+      "translation": "WEB",
+      "text": "There was evening and there was morning, a fifth day.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 325,
+      "reference": "Genesis 1:24",
+      "translation": "WEB",
+      "text": "God said, “Let the earth produce living creatures after their kind, livestock, creeping things, and animals of the earth after their kind;” and it was so.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 326,
+      "reference": "Genesis 1:25",
+      "translation": "WEB",
+      "text": "God made the animals of the earth after their kind, and the livestock after their kind, and everything that creeps on the ground after its kind. God saw that it was good.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 327,
+      "reference": "Genesis 1:26",
+      "translation": "WEB",
+      "text": "God said, “Let’s make man in our image, after our likeness. Let them have dominion over the fish of the sea, and over the birds of the sky, and over the livestock, and over all the earth, and over every creeping thing that creeps on the earth.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 328,
+      "reference": "Genesis 1:27",
+      "translation": "WEB",
+      "text": "God created man in his own image. In God’s image he created him; male and female he created them.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 329,
+      "reference": "Genesis 1:28",
+      "translation": "WEB",
+      "text": "God blessed them. God said to them, “Be fruitful, multiply, fill the earth, and subdue it. Have dominion over the fish of the sea, over the birds of the sky, and over every living thing that moves on the earth.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 330,
+      "reference": "Genesis 1:29",
+      "translation": "WEB",
+      "text": "God said, “Behold, I have given you every herb yielding seed, which is on the surface of all the earth, and every tree, which bears fruit yielding seed. It will be your food.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 331,
+      "reference": "Genesis 1:3",
+      "translation": "WEB",
+      "text": "God said, “Let there be light,” and there was light.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 332,
+      "reference": "Genesis 1:30",
+      "translation": "WEB",
+      "text": "To every animal of the earth, and to every bird of the sky, and to everything that creeps on the earth, in which there is life, I have given every green herb for food;” and it was so.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 333,
+      "reference": "Genesis 1:31",
+      "translation": "WEB",
+      "text": "God saw everything that he had made, and, behold, it was very good. There was evening and there was morning, a sixth day.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 334,
+      "reference": "Genesis 1:4",
+      "translation": "WEB",
+      "text": "God saw the light, and saw that it was good. God divided the light from the darkness.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 335,
+      "reference": "Genesis 1:5",
+      "translation": "WEB",
+      "text": "God called the light “day”, and the darkness he called “night”. There was evening and there was morning, the first day.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 336,
+      "reference": "Genesis 1:6",
+      "translation": "WEB",
+      "text": "God said, “Let there be an expanse in the middle of the waters, and let it divide the waters from the waters.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 337,
+      "reference": "Genesis 1:7",
+      "translation": "WEB",
+      "text": "God made the expanse, and divided the waters which were under the expanse from the waters which were above the expanse; and it was so.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 338,
+      "reference": "Genesis 1:8",
+      "translation": "WEB",
+      "text": "God called the expanse “sky”. There was evening and there was morning, a second day.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 339,
+      "reference": "Genesis 1:9",
+      "translation": "WEB",
+      "text": "God said, “Let the waters under the sky be gathered together to one place, and let the dry land appear;” and it was so.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 340,
+      "reference": "Genesis 10:1",
+      "translation": "WEB",
+      "text": "Now this is the history of the generations of the sons of Noah and of Shem, Ham, and Japheth. Sons were born to them after the flood.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 341,
+      "reference": "Genesis 10:10",
+      "translation": "WEB",
+      "text": "The beginning of his kingdom was Babel, Erech, Accad, and Calneh, in the land of Shinar.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 342,
+      "reference": "Genesis 10:11",
+      "translation": "WEB",
+      "text": "Out of that land he went into Assyria, and built Nineveh, Rehoboth Ir, Calah,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 343,
+      "reference": "Genesis 10:12",
+      "translation": "WEB",
+      "text": "and Resen between Nineveh and the great city Calah.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 344,
+      "reference": "Genesis 10:13",
+      "translation": "WEB",
+      "text": "Mizraim became the father of Ludim, Anamim, Lehabim, Naphtuhim,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 345,
+      "reference": "Genesis 10:14",
+      "translation": "WEB",
+      "text": "Pathrusim, Casluhim (which the Philistines descended from), and Caphtorim.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 346,
+      "reference": "Genesis 10:15",
+      "translation": "WEB",
+      "text": "Canaan became the father of Sidon (his firstborn), Heth,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 347,
+      "reference": "Genesis 10:16",
+      "translation": "WEB",
+      "text": "the Jebusites, the Amorites, the Girgashites,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 348,
+      "reference": "Genesis 10:17",
+      "translation": "WEB",
+      "text": "the Hivites, the Arkites, the Sinites,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 349,
+      "reference": "Genesis 10:18",
+      "translation": "WEB",
+      "text": "the Arvadites, the Zemarites, and the Hamathites. Afterward the families of the Canaanites were spread abroad.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 350,
+      "reference": "Genesis 10:19",
+      "translation": "WEB",
+      "text": "The border of the Canaanites was from Sidon—as you go toward Gerar—to Gaza—as you go toward Sodom, Gomorrah, Admah, and Zeboiim—to Lasha.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 351,
+      "reference": "Genesis 10:2",
+      "translation": "WEB",
+      "text": "The sons of Japheth were: Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 352,
+      "reference": "Genesis 10:20",
+      "translation": "WEB",
+      "text": "These are the sons of Ham, after their families, according to their languages, in their lands and their nations.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 353,
+      "reference": "Genesis 10:21",
+      "translation": "WEB",
+      "text": "Children were also born to Shem (the elder brother of Japheth), the father of all the children of Eber.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 354,
+      "reference": "Genesis 10:22",
+      "translation": "WEB",
+      "text": "The sons of Shem were: Elam, Asshur, Arpachshad, Lud, and Aram.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 355,
+      "reference": "Genesis 10:23",
+      "translation": "WEB",
+      "text": "The sons of Aram were: Uz, Hul, Gether, and Mash.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 356,
+      "reference": "Genesis 10:24",
+      "translation": "WEB",
+      "text": "Arpachshad became the father of Shelah. Shelah became the father of Eber.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 357,
+      "reference": "Genesis 10:25",
+      "translation": "WEB",
+      "text": "To Eber were born two sons. The name of the one was Peleg, for in his days the earth was divided. His brother’s name was Joktan.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 358,
+      "reference": "Genesis 10:26",
+      "translation": "WEB",
+      "text": "Joktan became the father of Almodad, Sheleph, Hazarmaveth, Jerah,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 359,
+      "reference": "Genesis 10:27",
+      "translation": "WEB",
+      "text": "Hadoram, Uzal, Diklah,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 360,
+      "reference": "Genesis 10:28",
+      "translation": "WEB",
+      "text": "Obal, Abimael, Sheba,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 361,
+      "reference": "Genesis 10:29",
+      "translation": "WEB",
+      "text": "Ophir, Havilah, and Jobab. All these were the sons of Joktan.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 362,
+      "reference": "Genesis 10:3",
+      "translation": "WEB",
+      "text": "The sons of Gomer were: Ashkenaz, Riphath, and Togarmah.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 363,
+      "reference": "Genesis 10:30",
+      "translation": "WEB",
+      "text": "Their dwelling extended from Mesha, as you go toward Sephar, the mountain of the east.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 364,
+      "reference": "Genesis 10:31",
+      "translation": "WEB",
+      "text": "These are the sons of Shem, by their families, according to their languages, lands, and nations.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 365,
+      "reference": "Genesis 10:32",
+      "translation": "WEB",
+      "text": "These are the families of the sons of Noah, by their generations, according to their nations. The nations divided from these in the earth after the flood.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 366,
+      "reference": "Genesis 10:4",
+      "translation": "WEB",
+      "text": "The sons of Javan were: Elishah, Tarshish, Kittim, and Dodanim.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 367,
+      "reference": "Genesis 10:5",
+      "translation": "WEB",
+      "text": "Of these were the islands of the nations divided in their lands, everyone after his language, after their families, in their nations.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 368,
+      "reference": "Genesis 10:6",
+      "translation": "WEB",
+      "text": "The sons of Ham were: Cush, Mizraim, Put, and Canaan.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 369,
+      "reference": "Genesis 10:7",
+      "translation": "WEB",
+      "text": "The sons of Cush were: Seba, Havilah, Sabtah, Raamah, and Sabteca. The sons of Raamah were: Sheba and Dedan.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 370,
+      "reference": "Genesis 10:8",
+      "translation": "WEB",
+      "text": "Cush became the father of Nimrod. He began to be a mighty one in the earth.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 371,
+      "reference": "Genesis 10:9",
+      "translation": "WEB",
+      "text": "He was a mighty hunter before Yahweh. Therefore it is said, “like Nimrod, a mighty hunter before Yahweh”.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 372,
+      "reference": "Genesis 11:1",
+      "translation": "WEB",
+      "text": "The whole earth was of one language and of one speech.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 373,
+      "reference": "Genesis 11:10",
+      "translation": "WEB",
+      "text": "This is the history of the generations of Shem: Shem was one hundred years old when he became the father of Arpachshad two years after the flood.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 374,
+      "reference": "Genesis 11:11",
+      "translation": "WEB",
+      "text": "Shem lived five hundred years after he became the father of Arpachshad, and became the father of more sons and daughters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 375,
+      "reference": "Genesis 11:12",
+      "translation": "WEB",
+      "text": "Arpachshad lived thirty-five years and became the father of Shelah.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 376,
+      "reference": "Genesis 11:13",
+      "translation": "WEB",
+      "text": "Arpachshad lived four hundred three years after he became the father of Shelah, and became the father of more sons and daughters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 377,
+      "reference": "Genesis 11:14",
+      "translation": "WEB",
+      "text": "Shelah lived thirty years, and became the father of Eber.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 378,
+      "reference": "Genesis 11:15",
+      "translation": "WEB",
+      "text": "Shelah lived four hundred three years after he became the father of Eber, and became the father of more sons and daughters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 379,
+      "reference": "Genesis 11:16",
+      "translation": "WEB",
+      "text": "Eber lived thirty-four years, and became the father of Peleg.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 380,
+      "reference": "Genesis 11:17",
+      "translation": "WEB",
+      "text": "Eber lived four hundred thirty years after he became the father of Peleg, and became the father of more sons and daughters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 381,
+      "reference": "Genesis 11:18",
+      "translation": "WEB",
+      "text": "Peleg lived thirty years, and became the father of Reu.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 382,
+      "reference": "Genesis 11:19",
+      "translation": "WEB",
+      "text": "Peleg lived two hundred nine years after he became the father of Reu, and became the father of more sons and daughters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 383,
+      "reference": "Genesis 11:2",
+      "translation": "WEB",
+      "text": "As they traveled from the east, they found a plain in the land of Shinar, and they lived there.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 384,
+      "reference": "Genesis 11:20",
+      "translation": "WEB",
+      "text": "Reu lived thirty-two years, and became the father of Serug.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 385,
+      "reference": "Genesis 11:21",
+      "translation": "WEB",
+      "text": "Reu lived two hundred seven years after he became the father of Serug, and became the father of more sons and daughters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 386,
+      "reference": "Genesis 11:22",
+      "translation": "WEB",
+      "text": "Serug lived thirty years, and became the father of Nahor.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 387,
+      "reference": "Genesis 11:23",
+      "translation": "WEB",
+      "text": "Serug lived two hundred years after he became the father of Nahor, and became the father of more sons and daughters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 388,
+      "reference": "Genesis 11:24",
+      "translation": "WEB",
+      "text": "Nahor lived twenty-nine years, and became the father of Terah.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 389,
+      "reference": "Genesis 11:25",
+      "translation": "WEB",
+      "text": "Nahor lived one hundred nineteen years after he became the father of Terah, and became the father of more sons and daughters.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 390,
+      "reference": "Genesis 11:26",
+      "translation": "WEB",
+      "text": "Terah lived seventy years, and became the father of Abram, Nahor, and Haran.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 391,
+      "reference": "Genesis 11:27",
+      "translation": "WEB",
+      "text": "Now this is the history of the generations of Terah. Terah became the father of Abram, Nahor, and Haran. Haran became the father of Lot.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 392,
+      "reference": "Genesis 11:28",
+      "translation": "WEB",
+      "text": "Haran died in the land of his birth, in Ur of the Chaldees, while his father Terah was still alive.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 393,
+      "reference": "Genesis 11:29",
+      "translation": "WEB",
+      "text": "Abram and Nahor married wives. The name of Abram’s wife was Sarai, and the name of Nahor’s wife was Milcah, the daughter of Haran, who was also the father of Iscah.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 394,
+      "reference": "Genesis 11:3",
+      "translation": "WEB",
+      "text": "They said to one another, “Come, let’s make bricks, and burn them thoroughly.” They had brick for stone, and they used tar for mortar.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 395,
+      "reference": "Genesis 11:30",
+      "translation": "WEB",
+      "text": "Sarai was barren. She had no child.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 396,
+      "reference": "Genesis 11:31",
+      "translation": "WEB",
+      "text": "Terah took Abram his son, Lot the son of Haran, his son’s son, and Sarai his daughter-in-law, his son Abram’s wife. They went from Ur of the Chaldees, to go into the land of Canaan. They came to Haran and lived there.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 397,
+      "reference": "Genesis 11:32",
+      "translation": "WEB",
+      "text": "The days of Terah were two hundred five years. Terah died in Haran.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 398,
+      "reference": "Genesis 11:4",
+      "translation": "WEB",
+      "text": "They said, “Come, let’s build ourselves a city, and a tower whose top reaches to the sky, and let’s make a name for ourselves, lest we be scattered abroad on the surface of the whole earth.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 399,
+      "reference": "Genesis 11:5",
+      "translation": "WEB",
+      "text": "Yahweh came down to see the city and the tower, which the children of men built.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 400,
+      "reference": "Genesis 11:6",
+      "translation": "WEB",
+      "text": "Yahweh said, “Behold, they are one people, and they all have one language, and this is what they begin to do. Now nothing will be withheld from them, which they intend to do.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 401,
+      "reference": "Genesis 11:7",
+      "translation": "WEB",
+      "text": "Come, let’s go down, and there confuse their language, that they may not understand one another’s speech.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 402,
+      "reference": "Genesis 11:8",
+      "translation": "WEB",
+      "text": "So Yahweh scattered them abroad from there on the surface of all the earth. They stopped building the city.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 403,
+      "reference": "Genesis 11:9",
+      "translation": "WEB",
+      "text": "Therefore its name was called Babel, because there Yahweh confused the language of all the earth. From there, Yahweh scattered them abroad on the surface of all the earth.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 404,
+      "reference": "Genesis 12:1",
+      "translation": "WEB",
+      "text": "Now Yahweh said to Abram, “Leave your country, and your relatives, and your father’s house, and go to the land that I will show you.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 405,
+      "reference": "Genesis 12:10",
+      "translation": "WEB",
+      "text": "There was a famine in the land. Abram went down into Egypt to live as a foreigner there, for the famine was severe in the land.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 406,
+      "reference": "Genesis 12:11",
+      "translation": "WEB",
+      "text": "When he had come near to enter Egypt, he said to Sarai his wife, “See now, I know that you are a beautiful woman to look at.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 407,
+      "reference": "Genesis 12:12",
+      "translation": "WEB",
+      "text": "It will happen, when the Egyptians see you, that they will say, ‘This is his wife.’ They will kill me, but they will save you alive.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 408,
+      "reference": "Genesis 12:13",
+      "translation": "WEB",
+      "text": "Please say that you are my sister, that it may be well with me for your sake, and that my soul may live because of you.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 409,
+      "reference": "Genesis 12:14",
+      "translation": "WEB",
+      "text": "When Abram had come into Egypt, Egyptians saw that the woman was very beautiful.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 410,
+      "reference": "Genesis 12:15",
+      "translation": "WEB",
+      "text": "The princes of Pharaoh saw her, and praised her to Pharaoh; and the woman was taken into Pharaoh’s house.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 411,
+      "reference": "Genesis 12:16",
+      "translation": "WEB",
+      "text": "He dealt well with Abram for her sake. He had sheep, cattle, male donkeys, male servants, female servants, female donkeys, and camels.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 412,
+      "reference": "Genesis 12:17",
+      "translation": "WEB",
+      "text": "Yahweh afflicted Pharaoh and his house with great plagues because of Sarai, Abram’s wife.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 413,
+      "reference": "Genesis 12:18",
+      "translation": "WEB",
+      "text": "Pharaoh called Abram and said, “What is this that you have done to me? Why didn’t you tell me that she was your wife?",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 414,
+      "reference": "Genesis 12:19",
+      "translation": "WEB",
+      "text": "Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now therefore, see your wife, take her, and go your way.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 415,
+      "reference": "Genesis 12:2",
+      "translation": "WEB",
+      "text": "I will make of you a great nation. I will bless you and make your name great. You will be a blessing.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 416,
+      "reference": "Genesis 12:20",
+      "translation": "WEB",
+      "text": "Pharaoh commanded men concerning him, and they escorted him away with his wife and all that he had.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 417,
+      "reference": "Genesis 12:3",
+      "translation": "WEB",
+      "text": "I will bless those who bless you, and I will curse him who treats you with contempt. All the families of the earth will be blessed through you.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 418,
+      "reference": "Genesis 12:4",
+      "translation": "WEB",
+      "text": "So Abram went, as Yahweh had told him. Lot went with him. Abram was seventy-five years old when he departed from Haran.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 419,
+      "reference": "Genesis 12:5",
+      "translation": "WEB",
+      "text": "Abram took Sarai his wife, Lot his brother’s son, all their possessions that they had gathered, and the people whom they had acquired in Haran, and they went to go into the land of Canaan. They entered into the land of Canaan.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 420,
+      "reference": "Genesis 12:6",
+      "translation": "WEB",
+      "text": "Abram passed through the land to the place of Shechem, to the oak of Moreh. At that time, Canaanites were in the land.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 421,
+      "reference": "Genesis 12:7",
+      "translation": "WEB",
+      "text": "Yahweh appeared to Abram and said, “I will give this land to your offspring.” He built an altar there to Yahweh, who had appeared to him.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 422,
+      "reference": "Genesis 12:8",
+      "translation": "WEB",
+      "text": "He left from there to go to the mountain on the east of Bethel and pitched his tent, having Bethel on the west, and Ai on the east. There he built an altar to Yahweh and called on Yahweh’s name.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 423,
+      "reference": "Genesis 12:9",
+      "translation": "WEB",
+      "text": "Abram traveled, still going on toward the South.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 424,
+      "reference": "Genesis 13:1",
+      "translation": "WEB",
+      "text": "Abram went up out of Egypt—he, his wife, all that he had, and Lot with him—into the South.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 425,
+      "reference": "Genesis 13:10",
+      "translation": "WEB",
+      "text": "Lot lifted up his eyes, and saw all the plain of the Jordan, that it was well-watered everywhere, before Yahweh destroyed Sodom and Gomorrah, like the garden of Yahweh, like the land of Egypt, as you go to Zoar.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 426,
+      "reference": "Genesis 13:11",
+      "translation": "WEB",
+      "text": "So Lot chose the Plain of the Jordan for himself. Lot traveled east, and they separated themselves from one other.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 427,
+      "reference": "Genesis 13:12",
+      "translation": "WEB",
+      "text": "Abram lived in the land of Canaan, and Lot lived in the cities of the plain, and moved his tent as far as Sodom.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 428,
+      "reference": "Genesis 13:13",
+      "translation": "WEB",
+      "text": "Now the men of Sodom were exceedingly wicked and sinners against Yahweh.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 429,
+      "reference": "Genesis 13:14",
+      "translation": "WEB",
+      "text": "Yahweh said to Abram, after Lot was separated from him, “Now, lift up your eyes, and look from the place where you are, northward and southward and eastward and westward,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 430,
+      "reference": "Genesis 13:15",
+      "translation": "WEB",
+      "text": "for I will give all the land which you see to you and to your offspring forever.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 431,
+      "reference": "Genesis 13:16",
+      "translation": "WEB",
+      "text": "I will make your offspring as the dust of the earth, so that if a man can count the dust of the earth, then your offspring may also be counted.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 432,
+      "reference": "Genesis 13:17",
+      "translation": "WEB",
+      "text": "Arise, walk through the land in its length and in its width; for I will give it to you.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 433,
+      "reference": "Genesis 13:18",
+      "translation": "WEB",
+      "text": "Abram moved his tent, and came and lived by the oaks of Mamre, which are in Hebron, and built an altar there to Yahweh.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 434,
+      "reference": "Genesis 13:2",
+      "translation": "WEB",
+      "text": "Abram was very rich in livestock, in silver, and in gold.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 435,
+      "reference": "Genesis 13:3",
+      "translation": "WEB",
+      "text": "He went on his journeys from the South as far as Bethel, to the place where his tent had been at the beginning, between Bethel and Ai,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 436,
+      "reference": "Genesis 13:4",
+      "translation": "WEB",
+      "text": "to the place of the altar, which he had made there at the first. There Abram called on Yahweh’s name.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 437,
+      "reference": "Genesis 13:5",
+      "translation": "WEB",
+      "text": "Lot also, who went with Abram, had flocks, herds, and tents.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 438,
+      "reference": "Genesis 13:6",
+      "translation": "WEB",
+      "text": "The land was not able to bear them, that they might live together; for their possessions were so great that they couldn’t live together.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 439,
+      "reference": "Genesis 13:7",
+      "translation": "WEB",
+      "text": "There was strife between the herdsmen of Abram’s livestock and the herdsmen of Lot’s livestock. The Canaanites and the Perizzites lived in the land at that time.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 440,
+      "reference": "Genesis 13:8",
+      "translation": "WEB",
+      "text": "Abram said to Lot, “Please, let there be no strife between you and me, and between your herdsmen and my herdsmen; for we are relatives.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 441,
+      "reference": "Genesis 13:9",
+      "translation": "WEB",
+      "text": "Isn’t the whole land before you? Please separate yourself from me. If you go to the left hand, then I will go to the right. Or if you go to the right hand, then I will go to the left.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 442,
+      "reference": "Genesis 14:1",
+      "translation": "WEB",
+      "text": "In the days of Amraphel, king of Shinar; Arioch, king of Ellasar; Chedorlaomer, king of Elam; and Tidal, king of Goiim,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 443,
+      "reference": "Genesis 14:10",
+      "translation": "WEB",
+      "text": "Now the valley of Siddim was full of tar pits; and the kings of Sodom and Gomorrah fled, and some fell there. Those who remained fled to the hills.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 444,
+      "reference": "Genesis 14:11",
+      "translation": "WEB",
+      "text": "They took all the goods of Sodom and Gomorrah, and all their food, and went their way.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 445,
+      "reference": "Genesis 14:12",
+      "translation": "WEB",
+      "text": "They took Lot, Abram’s brother’s son, who lived in Sodom, and his goods, and departed.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 446,
+      "reference": "Genesis 14:13",
+      "translation": "WEB",
+      "text": "One who had escaped came and told Abram, the Hebrew. At that time, he lived by the oaks of Mamre, the Amorite, brother of Eshcol and brother of Aner. They were allies of Abram.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 447,
+      "reference": "Genesis 14:14",
+      "translation": "WEB",
+      "text": "When Abram heard that his relative was taken captive, he led out his three hundred eighteen trained men, born in his house, and pursued as far as Dan.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 448,
+      "reference": "Genesis 14:15",
+      "translation": "WEB",
+      "text": "He divided himself against them by night, he and his servants, and struck them, and pursued them to Hobah, which is on the left hand of Damascus.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 449,
+      "reference": "Genesis 14:16",
+      "translation": "WEB",
+      "text": "He brought back all the goods, and also brought back his relative Lot and his goods, and the women also, and the other people.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 450,
+      "reference": "Genesis 14:17",
+      "translation": "WEB",
+      "text": "The king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer and the kings who were with him, at the valley of Shaveh (that is, the King’s Valley).",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 451,
+      "reference": "Genesis 14:18",
+      "translation": "WEB",
+      "text": "Melchizedek king of Salem brought out bread and wine. He was priest of God Most High.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 452,
+      "reference": "Genesis 14:19",
+      "translation": "WEB",
+      "text": "He blessed him, and said, “Blessed be Abram of God Most High, possessor of heaven and earth.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 453,
+      "reference": "Genesis 14:2",
+      "translation": "WEB",
+      "text": "they made war with Bera, king of Sodom; Birsha, king of Gomorrah; Shinab, king of Admah; Shemeber, king of Zeboiim; and the king of Bela (also called Zoar).",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 454,
+      "reference": "Genesis 14:20",
+      "translation": "WEB",
+      "text": "Blessed be God Most High, who has delivered your enemies into your hand.” Abram gave him a tenth of all.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 455,
+      "reference": "Genesis 14:21",
+      "translation": "WEB",
+      "text": "The king of Sodom said to Abram, “Give me the people, and take the goods for yourself.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 456,
+      "reference": "Genesis 14:22",
+      "translation": "WEB",
+      "text": "Abram said to the king of Sodom, “I have lifted up my hand to Yahweh, God Most High, possessor of heaven and earth,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 457,
+      "reference": "Genesis 14:23",
+      "translation": "WEB",
+      "text": "that I will not take a thread nor a sandal strap nor anything that is yours, lest you should say, ‘I have made Abram rich.’",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 458,
+      "reference": "Genesis 14:24",
+      "translation": "WEB",
+      "text": "I will accept nothing from you except that which the young men have eaten, and the portion of the men who went with me: Aner, Eshcol, and Mamre. Let them take their portion.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 459,
+      "reference": "Genesis 14:3",
+      "translation": "WEB",
+      "text": "All these joined together in the valley of Siddim (also called the Salt Sea).",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 460,
+      "reference": "Genesis 14:4",
+      "translation": "WEB",
+      "text": "They served Chedorlaomer for twelve years, and in the thirteenth year they rebelled.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 461,
+      "reference": "Genesis 14:5",
+      "translation": "WEB",
+      "text": "In the fourteenth year Chedorlaomer came, and the kings who were with him, and struck the Rephaim in Ashteroth Karnaim, the Zuzim in Ham, the Emim in Shaveh Kiriathaim,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 462,
+      "reference": "Genesis 14:6",
+      "translation": "WEB",
+      "text": "and the Horites in their Mount Seir, to El Paran, which is by the wilderness.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 463,
+      "reference": "Genesis 14:7",
+      "translation": "WEB",
+      "text": "They returned, and came to En Mishpat (also called Kadesh), and struck all the country of the Amalekites, and also the Amorites, that lived in Hazazon Tamar.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 464,
+      "reference": "Genesis 14:8",
+      "translation": "WEB",
+      "text": "The king of Sodom, and the king of Gomorrah, the king of Admah, the king of Zeboiim, and the king of Bela (also called Zoar) went out; and they set the battle in array against them in the valley of Siddim",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 465,
+      "reference": "Genesis 14:9",
+      "translation": "WEB",
+      "text": "against Chedorlaomer king of Elam, Tidal king of Goiim, Amraphel king of Shinar, and Arioch king of Ellasar; four kings against the five.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 466,
+      "reference": "Genesis 15:1",
+      "translation": "WEB",
+      "text": "After these things Yahweh’s word came to Abram in a vision, saying, “Don’t be afraid, Abram. I am your shield, your exceedingly great reward.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 467,
+      "reference": "Genesis 15:10",
+      "translation": "WEB",
+      "text": "He brought him all these, and divided them in the middle, and laid each half opposite the other; but he didn’t divide the birds.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 468,
+      "reference": "Genesis 15:11",
+      "translation": "WEB",
+      "text": "The birds of prey came down on the carcasses, and Abram drove them away.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 469,
+      "reference": "Genesis 15:12",
+      "translation": "WEB",
+      "text": "When the sun was going down, a deep sleep fell on Abram. Now terror and great darkness fell on him.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 470,
+      "reference": "Genesis 15:13",
+      "translation": "WEB",
+      "text": "He said to Abram, “Know for sure that your offspring will live as foreigners in a land that is not theirs, and will serve them. They will afflict them four hundred years.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 471,
+      "reference": "Genesis 15:14",
+      "translation": "WEB",
+      "text": "I will also judge that nation, whom they will serve. Afterward they will come out with great wealth;",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 472,
+      "reference": "Genesis 15:15",
+      "translation": "WEB",
+      "text": "but you will go to your fathers in peace. You will be buried at a good old age.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 473,
+      "reference": "Genesis 15:16",
+      "translation": "WEB",
+      "text": "In the fourth generation they will come here again, for the iniquity of the Amorite is not yet full.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 474,
+      "reference": "Genesis 15:17",
+      "translation": "WEB",
+      "text": "It came to pass that, when the sun went down, and it was dark, behold, a smoking furnace and a flaming torch passed between these pieces.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 475,
+      "reference": "Genesis 15:18",
+      "translation": "WEB",
+      "text": "In that day Yahweh made a covenant with Abram, saying, “I have given this land to your offspring, from the river of Egypt to the great river, the river Euphrates:",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 476,
+      "reference": "Genesis 15:19",
+      "translation": "WEB",
+      "text": "the land of the Kenites, the Kenizzites, the Kadmonites,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 477,
+      "reference": "Genesis 15:2",
+      "translation": "WEB",
+      "text": "Abram said, “Lord Yahweh, what will you give me, since I go childless, and he who will inherit my estate is Eliezer of Damascus?”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 478,
+      "reference": "Genesis 15:20",
+      "translation": "WEB",
+      "text": "the Hittites, the Perizzites, the Rephaim,",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 479,
+      "reference": "Genesis 15:21",
+      "translation": "WEB",
+      "text": "the Amorites, the Canaanites, the Girgashites, and the Jebusites.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 480,
+      "reference": "Genesis 15:3",
+      "translation": "WEB",
+      "text": "Abram said, “Behold, you have given no children to me: and, behold, one born in my house is my heir.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 481,
+      "reference": "Genesis 15:4",
+      "translation": "WEB",
+      "text": "Behold, Yahweh’s word came to him, saying, “This man will not be your heir, but he who will come out of your own body will be your heir.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 482,
+      "reference": "Genesis 15:5",
+      "translation": "WEB",
+      "text": "Yahweh brought him outside, and said, “Look now toward the sky, and count the stars, if you are able to count them.” He said to Abram, “So your offspring will be.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 483,
+      "reference": "Genesis 15:6",
+      "translation": "WEB",
+      "text": "He believed in Yahweh, who credited it to him for righteousness.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 484,
+      "reference": "Genesis 15:7",
+      "translation": "WEB",
+      "text": "He said to Abram, “I am Yahweh who brought you out of Ur of the Chaldees, to give you this land to inherit it.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 485,
+      "reference": "Genesis 15:8",
+      "translation": "WEB",
+      "text": "He said, “Lord Yahweh, how will I know that I will inherit it?”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 486,
+      "reference": "Genesis 15:9",
+      "translation": "WEB",
+      "text": "He said to him, “Bring me a heifer three years old, a female goat three years old, a ram three years old, a turtledove, and a young pigeon.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 487,
+      "reference": "Genesis 16:1",
+      "translation": "WEB",
+      "text": "Now Sarai, Abram’s wife, bore him no children. She had a servant, an Egyptian, whose name was Hagar.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 488,
+      "reference": "Genesis 16:10",
+      "translation": "WEB",
+      "text": "Yahweh’s angel said to her, “I will greatly multiply your offspring, that they will not be counted for multitude.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 489,
+      "reference": "Genesis 16:11",
+      "translation": "WEB",
+      "text": "Yahweh’s angel said to her, “Behold, you are with child, and will bear a son. You shall call his name Ishmael, because Yahweh has heard your affliction.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 490,
+      "reference": "Genesis 16:12",
+      "translation": "WEB",
+      "text": "He will be like a wild donkey among men. His hand will be against every man, and every man’s hand against him. He will live opposed to all of his brothers.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 491,
+      "reference": "Genesis 16:13",
+      "translation": "WEB",
+      "text": "She called the name of Yahweh who spoke to her, “You are a God who sees,” for she said, “Have I even stayed alive after seeing him?”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 492,
+      "reference": "Genesis 16:14",
+      "translation": "WEB",
+      "text": "Therefore the well was called Beer Lahai Roi. Behold, it is between Kadesh and Bered.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 493,
+      "reference": "Genesis 16:15",
+      "translation": "WEB",
+      "text": "Hagar bore a son for Abram. Abram called the name of his son, whom Hagar bore, Ishmael.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 494,
+      "reference": "Genesis 16:16",
+      "translation": "WEB",
+      "text": "Abram was eighty-six years old when Hagar bore Ishmael to Abram.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 495,
+      "reference": "Genesis 16:2",
+      "translation": "WEB",
+      "text": "Sarai said to Abram, “See now, Yahweh has restrained me from bearing. Please go in to my servant. It may be that I will obtain children by her.” Abram listened to the voice of Sarai.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 496,
+      "reference": "Genesis 16:3",
+      "translation": "WEB",
+      "text": "Sarai, Abram’s wife, took Hagar the Egyptian, her servant, after Abram had lived ten years in the land of Canaan, and gave her to Abram her husband to be his wife.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 497,
+      "reference": "Genesis 16:4",
+      "translation": "WEB",
+      "text": "He went in to Hagar, and she conceived. When she saw that she had conceived, her mistress was despised in her eyes.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 498,
+      "reference": "Genesis 16:5",
+      "translation": "WEB",
+      "text": "Sarai said to Abram, “This wrong is your fault. I gave my servant into your bosom, and when she saw that she had conceived, she despised me. May Yahweh judge between me and you.”",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 499,
+      "reference": "Genesis 16:6",
+      "translation": "WEB",
+      "text": "But Abram said to Sarai, “Behold, your maid is in your hand. Do to her whatever is good in your eyes.” Sarai dealt harshly with her, and she fled from her face.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    },
+    {
+      "id": 500,
+      "reference": "Genesis 16:7",
+      "translation": "WEB",
+      "text": "Yahweh’s angel found her by a fountain of water in the wilderness, by the fountain on the way to Shur.",
+      "category": "Additional Memorization",
+      "difficulty": 1
+    }
+  ]
+}
