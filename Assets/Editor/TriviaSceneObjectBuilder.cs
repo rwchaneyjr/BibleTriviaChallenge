@@ -142,6 +142,7 @@ public static class TriviaSceneObjectBuilder
         for (var i = 1; i <= 4; i++)
             SetRect("AnswerButton" + i, "GamePanel", new Vector2(0, 350 - (i - 1) * 106), new Vector2(820, 72));
         SetRect("FeedbackText", "GamePanel", new Vector2(0, -50), new Vector2(820, 54));
+        SetRect("HintText", "GamePanel", new Vector2(0, -470), new Vector2(820, 60));
         SetRect("HintButton", "GamePanel", new Vector2(-220, -120), new Vector2(330, 60));
         SetRect("NextButton", "GamePanel", new Vector2(220, -120), new Vector2(330, 60));
         for (var i = 1; i <= 10; i++)
