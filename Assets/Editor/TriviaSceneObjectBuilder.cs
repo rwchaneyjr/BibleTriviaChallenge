@@ -23,6 +23,16 @@ public static class TriviaSceneObjectBuilder
     {
         var canvas = Object.FindObjectOfType<Canvas>();
         var menu = FindAny("MainMenuPanel");
+        if (canvas == null || menu == null)
+        {
+            var scenePath = "Assets/Scenes/SampleScene.unity";
+            if (System.IO.File.Exists(scenePath))
+            {
+                EditorSceneManager.OpenScene(scenePath, OpenSceneMode.Single);
+                canvas = Object.FindObjectOfType<Canvas>();
+                menu = FindAny("MainMenuPanel");
+            }
+        }
         if (canvas == null || menu == null) return;
         CreateButton(canvas.transform, "ResetButton", "Reset Progress", new Vector2(0, -150));
         CreateButton(canvas.transform, "ExitGameButton", "Exit Game", new Vector2(0, -264));
