@@ -26,18 +26,18 @@ public sealed class TriviaPortraitLayout : MonoBehaviour
 
     private void ApplyLayout()
     {
-        Set("QuestionText", new Vector2(0, 436), new Vector2(820, 80));
-        Set("ReferenceText", new Vector2(0, 360), new Vector2(820, 45));
+        Set("QuestionText", new Vector2(0, 470), new Vector2(820, 70));
+        Set("ReferenceText", new Vector2(0, 415), new Vector2(820, 40));
         Set("ScoreText", new Vector2(-300, 455), new Vector2(260, 50));
         Set("ProgressText", new Vector2(300, 455), new Vector2(260, 50));
         Set("MuteButton", new Vector2(300, 525), new Vector2(300, 70));
-        Set("AnswerButton1", new Vector2(0, 254), new Vector2(820, 82));
-        Set("AnswerButton2", new Vector2(0, 148), new Vector2(820, 82));
-        Set("AnswerButton3", new Vector2(0, 42), new Vector2(820, 82));
-        Set("AnswerButton4", new Vector2(0, -64), new Vector2(820, 82));
-        Set("FeedbackText", new Vector2(0, -146), new Vector2(820, 70));
-        Set("HintButton", new Vector2(-220, -216), new Vector2(330, 70));
-        Set("NextButton", new Vector2(220, -216), new Vector2(330, 70));
+        Set("AnswerButton1", new Vector2(0, 350), new Vector2(820, 82));
+        Set("AnswerButton2", new Vector2(0, 244), new Vector2(820, 82));
+        Set("AnswerButton3", new Vector2(0, 138), new Vector2(820, 82));
+        Set("AnswerButton4", new Vector2(0, 32), new Vector2(820, 82));
+        Set("FeedbackText", new Vector2(0, -50), new Vector2(820, 70));
+        Set("HintButton", new Vector2(-220, -120), new Vector2(330, 70));
+        Set("NextButton", new Vector2(220, -120), new Vector2(330, 70));
         foreach (var text in FindObjectsOfType<Text>(true))
         {
             if (text.transform.IsChildOf(transform)) continue;
