@@ -24,4 +24,15 @@ public static class TriviaProgress
         PlayerPrefs.SetInt(ScoreKey, 0);
         PlayerPrefs.Save();
     }
+
+    public static void ResetAll()
+    {
+        foreach (var key in new[]
+        {
+            ScoreKey, BestScoreKey, CompletedKey,
+            "bible_trivia_unlocked_level", "achievement_first_correct",
+            "achievement_perfect_round", "round_correct", "round_answered"
+        }) PlayerPrefs.DeleteKey(key);
+        PlayerPrefs.Save();
+    }
 }

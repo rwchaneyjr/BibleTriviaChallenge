@@ -1,10 +1,41 @@
 using UnityEditor;
+using UnityEditor.SceneManagement;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
+[InitializeOnLoad]
 public static class TriviaSceneObjectBuilder
 {
+    static TriviaSceneObjectBuilder()
+    {
+        EditorApplication.delayCall += EnsureUtilityButtons;
+    }
+
+    private static void EnsureUtilityButtons()
+    {
+        if (FindAny("ResetButton") != null && FindAny("ExitGameButton") != null && FindAny("GameBackButton") != null) return;
+        AddUtilityButtons();
+    }
+
+    [MenuItem("Bible Trivia/Add Utility Buttons")]
+    public static void AddUtilityButtons()
+    {
+        var canvas = Object.FindObjectOfType<Canvas>();
+        var menu = FindAny("MainMenuPanel");
+        if (canvas == null || menu == null) return;
+        CreateButton(canvas.transform, "ResetButton", "Reset Progress", new Vector2(0, -150));
+        CreateButton(canvas.transform, "ExitGameButton", "Exit Game", new Vector2(0, -264));
+        CreateButton(canvas.transform, "GameBackButton", "Back to Levels", new Vector2(-250, -210));
+        Parent("ResetButton", "MainMenuPanel");
+        Parent("ExitGameButton", "MainMenuPanel");
+        Parent("GameBackButton", "GamePanel");
+        SetRect("ResetButton", "MainMenuPanel", new Vector2(0, -158), new Vector2(520, 70));
+        SetRect("ExitGameButton", "MainMenuPanel", new Vector2(0, -244), new Vector2(520, 70));
+        SetRect("GameBackButton", "GamePanel", new Vector2(-250, -210), new Vector2(300, 60));
+        EditorSceneManager.MarkSceneDirty(EditorSceneManager.GetActiveScene());
+        Debug.Log("Added persistent Reset and Exit Game buttons. Save the scene to keep them.");
+    }
     [MenuItem("Bible Trivia/Rebuild Scene Game Objects")]
     public static void RebuildObjects()
     {
