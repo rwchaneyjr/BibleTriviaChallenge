@@ -63,6 +63,7 @@ public sealed class TriviaGameController : MonoBehaviour
         if (progressText != null) progressText.text = string.Empty;
         if (feedbackText != null) feedbackText.text = string.Empty;
         if (hintText != null) hintText.text = string.Empty;
+        if (achievementText != null) achievementText.text = "Stars: 0";
         if (hintButton != null) hintButton.interactable = true;
     }
 
