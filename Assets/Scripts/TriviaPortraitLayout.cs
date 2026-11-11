@@ -16,28 +16,16 @@ public sealed class TriviaPortraitLayout : MonoBehaviour
             scaler.screenMatchMode = CanvasScaler.ScreenMatchMode.MatchWidthOrHeight;
             scaler.matchWidthOrHeight = 1f;
         }
-        ApplyLayout();
+        ApplyStyles();
     }
 
     private void OnRectTransformDimensionsChange()
     {
-        if (isActiveAndEnabled) ApplyLayout();
+        if (isActiveAndEnabled) ApplyStyles();
     }
 
-    private void ApplyLayout()
+    private void ApplyStyles()
     {
-        Set("QuestionText", new Vector2(0, 470), new Vector2(820, 60));
-        Set("ReferenceText", new Vector2(0, 415), new Vector2(820, 32));
-        Set("ScoreText", new Vector2(-300, 455), new Vector2(260, 50));
-        Set("ProgressText", new Vector2(300, 455), new Vector2(260, 50));
-        Set("MuteButton", new Vector2(300, 525), new Vector2(300, 70));
-        Set("AnswerButton1", new Vector2(0, 350), new Vector2(820, 72));
-        Set("AnswerButton2", new Vector2(0, 244), new Vector2(820, 72));
-        Set("AnswerButton3", new Vector2(0, 138), new Vector2(820, 72));
-        Set("AnswerButton4", new Vector2(0, 32), new Vector2(820, 72));
-        Set("FeedbackText", new Vector2(0, -50), new Vector2(820, 54));
-        Set("HintButton", new Vector2(-220, -120), new Vector2(330, 60));
-        Set("NextButton", new Vector2(220, -120), new Vector2(330, 60));
         foreach (var text in FindObjectsOfType<Text>(true))
         {
             if (text.transform.IsChildOf(transform)) continue;

@@ -93,6 +93,16 @@ public static class TriviaSceneObjectBuilder
         SetRect("OldTestamentButton", "LevelPanel", new Vector2(-220, -282), new Vector2(360, 90));
         SetRect("NewTestamentButton", "LevelPanel", new Vector2(220, -282), new Vector2(360, 90));
         SetRect("LevelStatusText", "LevelPanel", new Vector2(0, -390), new Vector2(700, 60));
+        SetRect("QuestionText", "GamePanel", new Vector2(0, 470), new Vector2(820, 60));
+        SetRect("ReferenceText", "GamePanel", new Vector2(0, 415), new Vector2(820, 32));
+        SetRect("ScoreText", "GamePanel", new Vector2(-300, 455), new Vector2(260, 50));
+        SetRect("ProgressText", "GamePanel", new Vector2(300, 455), new Vector2(260, 50));
+        SetRect("MuteButton", "GamePanel", new Vector2(300, 525), new Vector2(300, 70));
+        for (var i = 1; i <= 4; i++)
+            SetRect("AnswerButton" + i, "GamePanel", new Vector2(0, 350 - (i - 1) * 106), new Vector2(820, 72));
+        SetRect("FeedbackText", "GamePanel", new Vector2(0, -50), new Vector2(820, 54));
+        SetRect("HintButton", "GamePanel", new Vector2(-220, -120), new Vector2(330, 60));
+        SetRect("NextButton", "GamePanel", new Vector2(220, -120), new Vector2(330, 60));
         for (var i = 1; i <= 10; i++)
             SetRect("LevelButton" + i, "LevelPanel", new Vector2((((i - 1) % 2) == 0 ? -135 : 135), 220 - ((i - 1) / 2) * 100), new Vector2(240, 86));
         RemoveMisparented("PlayButton", "MainMenuPanel");
