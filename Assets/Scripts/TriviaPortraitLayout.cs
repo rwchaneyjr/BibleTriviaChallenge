@@ -31,10 +31,10 @@ public sealed class TriviaPortraitLayout : MonoBehaviour
         Set("ScoreText", new Vector2(-300, 455), new Vector2(260, 50));
         Set("ProgressText", new Vector2(300, 455), new Vector2(260, 50));
         Set("MuteButton", new Vector2(300, 525), new Vector2(300, 70));
-        Set("AnswerButton1", new Vector2(0, 155), new Vector2(820, 82));
-        Set("AnswerButton2", new Vector2(0, 55), new Vector2(820, 82));
-        Set("AnswerButton3", new Vector2(0, -45), new Vector2(820, 82));
-        Set("AnswerButton4", new Vector2(0, -145), new Vector2(820, 82));
+        Set("AnswerButton1", new Vector2(0, 150), new Vector2(820, 82));
+        Set("AnswerButton2", new Vector2(0, 54), new Vector2(820, 82));
+        Set("AnswerButton3", new Vector2(0, -42), new Vector2(820, 82));
+        Set("AnswerButton4", new Vector2(0, -138), new Vector2(820, 82));
         Set("FeedbackText", new Vector2(0, -225), new Vector2(820, 70));
         Set("HintButton", new Vector2(-220, -295), new Vector2(330, 70));
         Set("NextButton", new Vector2(220, -295), new Vector2(330, 70));
