@@ -43,7 +43,9 @@ public sealed class TriviaPortraitLayout : MonoBehaviour
             if (text.name == "QuestionText")
             {
                 text.fontSize = 42;
-                text.resizeTextForBestFit = false;
+                text.resizeTextForBestFit = true;
+                text.resizeTextMinSize = 26;
+                text.resizeTextMaxSize = 42;
             }
             if (text.GetComponentInParent<Button>() != null)
             {
@@ -53,14 +55,18 @@ public sealed class TriviaPortraitLayout : MonoBehaviour
                 labelRect.offsetMin = new Vector2(20, 10);
                 labelRect.offsetMax = new Vector2(-20, -10);
                 text.fontSize = 36;
-                text.resizeTextForBestFit = false;
+                text.resizeTextForBestFit = true;
+                text.resizeTextMinSize = 20;
+                text.resizeTextMaxSize = 36;
                 text.horizontalOverflow = HorizontalWrapMode.Overflow;
                 text.verticalOverflow = VerticalWrapMode.Truncate;
             }
             else
             {
                 text.fontSize = 32;
-                text.resizeTextForBestFit = false;
+                text.resizeTextForBestFit = true;
+                text.resizeTextMinSize = 18;
+                text.resizeTextMaxSize = 32;
             }
         }
     }
